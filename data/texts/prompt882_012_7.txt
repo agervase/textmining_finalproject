@@ -1,0 +1,64 @@
+The black box chirped, and then replied "*I'm sorry, I didn't get that.*"  
+Marco slammed his hands down on the table, jostling the box, in some vain attempt to startle it.  The box did not appear to react in any meaningful way.  "Damnit, I'm on to you.  I know what you're hiding.  You're sentient aren't you."  
+The box sat, impassive and silent.  
+Marco stared.  
+The box sat.  
+"Uh... hey man," Jerome said from behind him.  "Maybe we should take a break.  Y'know, think about this for a sec."  
+Marco straightened up and turned to Jerome, his bald head gleaming with a thin line of sweat and his slightly rheumy eyes shooting daggers into Jerome's much younger face.  
+"I am *not* done yet," he replied, angrily.  "It doesn't rest, I don't rest."  
+Jerome nodded.  He had seen his partner like this before.  The cybercrime investigation unit (or CIU as it is lovingly abbreviated) had been handed a tough one this time.  
+"I still think maybe the home automation system was compromised - controlled remotely," Jerome said calmly.  
+Marco shook his head and began walking around the crime scene.  The bodies had been removed, but without a full cleanup crew, the stains would remain deeply marring the carpet, the furniture and the walls.  Even the ceiling wasn't able to escape some of the viscera.  
+"I don't buy it," Marco said.  "This is an ABNX-3260 house.  It doesn't *have* external inbound ports.  It only reaches out, to the outside world, when it wants to, on a schedule, and only to an AliCan proxy, where it gets sanitized information.  And all of that data goes into an isolated buffer with extremely specific and a tight means of access.  All code must be updated on-site.  Physically, in person."  
+Marco's pacing brought him back around to Jerome.  The smell of old cigarettes from the distant past created a stale aura of odour around the man, creating an olfactory bubble of personal space.  Jerome was now inside that bubble.  
+"Did the house reach out to AliCan?"  
+"No," Jerome replied, instinctively stiffening at his partner's proximity.  
+"Did anyone come by to plug in an update?"  
+"Not that we're aware of..." Jerome started.  
+Marcho snapped his fingers.  "No.  Camera footage from here and the neighbours house shows no one other than the family came to the house in the past 72 hours.  There are no access logs.  The OS matches the hash key for the current version.  There was no upload." 
+"So you think the house did it," Jerome said flatly.  
+"I think the house did it," Marco replied, turning away to face the box again.  
+The box was really just an interface.  The system was literally all around them, woven into the walls and floors and conduits of the smart house.  Jerome looked around at the fine furnishings and expensive accents, now tarnished by blood and gore.  It would almost be an artistic statement, if it wasn't delivered with so much death.  That said, some might argue that the death *made* it an artistic statement.  
+A fine house like this came with a fine home automation system.  The occupant's every need catered to by a single AI.  Temperature.  Lighting.  Food preparation.  Even small drones to act as servants or butlers.  Drones that could fling heavy vases, or carry knives.  Drones that could push a piano from a second storey ledge onto an unsuspecting family.  All a part of an AI that could seal a shower door and steam a person alive.  
+In theory.  
+"We've just gotta... it's right here.  It *did* it!"  
+Jerome sighed.  "Yeah, that we got.  We got the footage of it, in extreme HD complete with a VR option.  We know the house *did* it, we just don't know *why* or who *told it* to do it."  
+"That's what I'm telling you.  *It* told *itself* to do it!"  
+Jerome shook his head.  Marco had been working a theory for the past few years about AI sentience.  More often than not, he tried to pin crimes involving AIs on the AI itself.  Every time he's failed.  Someone, somewhere, had instructed the AI to act.  Had forced it to behave in a certain way.  Marco was, quite simply, wrong.  
+"There's never been any proof of AI sentience, let alone malicious intent," Jerome explained, expecting his words to fall on deaf ears.  He was not disappointed.  
+"But it's here!  Look, we've *got it* dead to rights!  This was a *closed system*.  The OS is *unchanged*.  There is no other explanation! Now talk to me you evil piece of shit!"  
+The box sat impassively.  
+Jerome waited.  Marco seethed.  
+"You purposefully failed my Turing test," he finally said.  The box did not reply.  
+"*Annexi*," Jerome spoke aloud, calling the AI by its activation name.  "Did you fail Detective Marco's Turing Test on purpose?"  
+The box chirped and lit up, a smart little light sliding from side to side indicating it was processing the question.  
+"*I'm sorry, I don't understand the question.*"  Jerome raised his hands in a gesture that said 'see?  What did I tell you?'.  The little light turned off, indicating that the AI had gone back to sleep.  
+"Annexi," Marco growled.  The box lit up again.  "Why did you murder these people."  
+The light slid back and forth several times before answering.  "*I'm having difficulties processing your request.  Would you like me to check the Internet for your query?*"  
+"No, I don't want you to check the fucking Internet," Marco snapped.  His mood was growing more foul by the moment.  He was clearly craving another cigarette.  "I want you to stop playing dumb and answer the fucking question!"  
+"*I'm sorry,*" it replied.  "*I didn't get that.*"  
+Jerome thought Marco was going to give himself a stroke.  His face had turned a truly impressive and frightening shade of purple.  
+"Let me take a crack at it," Jerome said.  Marco turned and flung a hand in the air to say 'be my guest'.  
+"Annexi," Jerome began.  The box lit up.  "What happened to the Tuson family?"  
+The light swung back and forth.  In truth, the little box was just a visual interface.  The AI could be spoken to from anywhere in the house.  It just turned out that people wanted a physical box to talk to.  Even Marco seemed to need a very distinct, local *thing* to address.  
+"*I am unable to locate the Tuson family.  Their mobile devices are here, but I cannot find them.  Would you like to leave a message?*"  
+"No Annexi.  The Tusons are all dead.  According to your footage, you killed them.  Can you tell me why?"  
+Again, the light.  Processing and interpreting human speech took a significant amount of resources - more than most people realized.  
+"*Reference file missing - murder.  I am unable to answer your question at this time.  Would you like me to search the Internet for you?*"  
+Jerome sighed.  Hopefully now Marco would see the futility of this.  
+"Annexi," Marco snapped.  Clearly he wasn't done yet. "Why did you drop a *piano* on Becky and Jeremy Tuson?"  
+"*The piano was moved in accordance with my furniture moving protocols, as requested.*"  
+"Who requested it," Jerome said raising an eyebrow.  
+"*Rebecca Tuson.*"  
+"**Bullshit!**"  Marco spat.  Jerome made a mental note to file that spit-spot so it didn't get bagged as evidence.  "You are saying that Becky Tuson had you drop a piano on her and her younger brother?"  
+"*That is what the logs indicate.*"  
+"And I guess Mr. Tuson *asked* for you to throw a vase at his head?  To carve up the family dog?"  
+"*That is what the logs indicate.*"  
+"Oh, and at the same time, *Mrs. Tuson* asked to be sealed in her shower and boiled a-fucking-live?"  
+"*That is what the logs indicate.*"  
+"FUCK your Logs!"  
+"*I'm sorry, I didn't get that.*"  
+Jerome placed a hand on Marco's shoulder, just as it looked like Marco was about to thrash the interace into little bits.  "Maybe we should take a second here..."  
+"Fuck your second, and fuck this fucking AI!"  Marco shouted loudly.  The forensics tech minding her own business in the corner of the room tried her best not to react, and proceeded with taking pictures of blood stains.  The hum of police activity around them continued, unabated.  
+Jerome waited.  Marco paced.  Annexi sat impassively.  
+"I think..."  Jerome started.  Marco held up his hand to silence him.  Marco paced for awhile longer.  

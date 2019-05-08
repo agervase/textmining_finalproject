@@ -1,0 +1,12 @@
+"I don't understand. It looks like galaxies! Look at all this substructure!" I was floored by what I saw in the scanning tunneling microscope. A whole microcosm beneath the nanoscale! So much possibility at my fingertips. I increased the resolution again: this time, a 10 A x 10 A image at 1 pA and 0.1 V. The electrons span the gap and the electrical impulses fed to the microscope raster the ultrasharp tip within a billionth of a nanometer from the surface.
+
+"Yeah neat. Whatever." Tom yawned. He'd been in his graduate program for 5 years and was just starting to publish the papers needed for his thesis. He'd picked up a few pounds, down here in the basement with the microscopes. "You see neat looking stuff sometimes, but you have to remember that the Nyquist theorem strictly states a lot of stuff you need to know about your sampling rate. Look again at the image size and the spacing between the points."
+
+"I don't, what?" 
+
+Look it has to do with frequencies right. Samples of a pure 0.6 fs sinusoid would produce a 0.4 fs sinusoid instead. If the true frequency was 0.4 fs, there would still be aliases at 0.6, 1.4, 1.6, etc. You're sampling too much for too few points, so all those cool spirals and rings you're looking at is just a grossly oversampled image. Sample at the frequency or some factor of 2. All that shit will go away. And 10 A is too small for a scan anyway. Do 100A. They're gold atoms you're imaging, not carbon. Jim used to get 10 A images but its dumb because theres too much drift. don't bother. collect good data aligned with the nyquist theorem and you crop it baby."
+
+I quickly input Tom's suggested values into the instrument. The first few lines scanned excruciatingly slowly, but soon the periodic lattice of the gold substrate came clearly into view, sans the complex substructures observed in the previous image. 
+
+"See? There is no noise. Only data. And the data said that you suck at this and you owe me a beer." Tom is an asshole. I wrote down the image conditions in the lab notebook.
+

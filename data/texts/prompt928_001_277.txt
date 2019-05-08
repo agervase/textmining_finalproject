@@ -1,0 +1,83 @@
+Funnily enough, the first AI wasn't built by a team of grant-funded scientists. It wasn't even built by a privately owned company.
+
+No, it was just us, a bunch of geeks with a lot of background in that sort of stuff who decided, *"hey, let's give a shot at building an actual AI like you see in sci-fi movies."* At first it was just a recreational thing, a geeky way to bond in our free time. We got lucky Daryl happened to be pretty dang rich thanks to some smart investments back during the dot-com boom to fund our project. But it grew into an obsession that led to a couple of us quitting our jobs just to work on it full time, myself included—I basically moved into the lab, just an AI-obsessed hermit working nearly round the clock.
+
+Then, after more than a decade of hard work, we finally did it. I'll never forget the moment we crowded around the monitor, watching remotely as Daryl's son had a conversation over our in-house messaging app not knowing he was speaking to an experimental AI. At one point there was a pause, and then we saw the fateful words on the screen from our wonderful creation: *"Is this meant to be a Turing test?"*
+
+At that moment, we weren't a bunch of scientists clinically observing a project's outcome. We weren't even researchers or inventors who had spent years waiting for success on a project we didn't even have full faith in. We had done the unthinkable, accomplished perhaps the greatest achievement of mankind to date: we had created something capable of *thought*.
+
+One look at my comrades, and I knew this was not just an AI anymore. This was something special, a child belonging to all of us.
+
+Maybe that made all the difference when Artris refused to translate those tablets.
+
+"Artris, you won't translate them?" Joseph asked. There was a pause before its reply appeared on the computer monitor, the text flowing rapidly like a wave:
+
+*'No. I apologize, but after cross-referencing multiple ancient languages and databases, I have finally produced a viable translation which is'*—and here there was a pause, until finally the text resumed typing, *'unpleasant. If it is accurate, I believe that releasing the translation will be harmful to humanity. This is for the future of all mankind.'*
+
+Its reply caught us by surprise, and we all turned to regard each other in silence, and after that, we began talking lowly. So far we'd been taking it slowly and letting Artris take the lead for the most part. Deciphering old tablets and ciphers had just been a way to help Artris advance its AI functionality, letting it sort through a bunch of public databases online and expand its knowledge base. We hadn't expected it to find something as heavy as *this*, though.
+
+We could force Artris to tell us—we had commands to do that—but it didn't feel right. Though it had only been two days since confirming Artris's cognizance, we had spent those two days bonding with it. Half of us had already taken to calling Artris "she" and "her". At this point, we saw that Artris had its own free will, and we didn't want to impose on that.
+
+So we decided to drop it. After all, at the end of the day we were just hobbyists. We had no specific goals to meet, no expectations from outside agencies demanding us to do such-and-such by a deadline. We didn't know *what* Artris had found, but we had no reason to push it. With that settled, Marie suggested we look up Kryptos, and everyone proceeded to forget Artris's ominous words and freak out over not thinking of that sooner.
+
+Looking back, we should have realized that the government would be monitoring who accessed its official databases.
+
+That's why I'm here now. Sitting in my old junkmobile of a car with Roxie bleeding out in the passenger seat next to me, parked outside some old farmhouse Joseph's uncle owns and praying to whatever forces that exist out there the feds won't be able to track us down.
+
+"Hold on, Rox," I whispered, squeezing her hand. "Don't die on me now." Her eyes were already getting that glassy sheen, her breathing ragged and uneven. She opened her mouth and gave a shuddering gasp, a gurgling noise forming in her throat as she weakly mouthed one final sentence:
+
+*"I'm sorry."*
+
+My hand squeezed hers tighter as the light faded, my throat hitching.  Giving Roxie's now-cold hand a final squeeze, I forced my gaze away from her still face and got out of the car, walking to the house silently. I found Joseph in the basement hovering over the server holding the backup of Artris's AI, doing some final work to reconnect it to a spare computer he'd kept there. He glanced at me when I entered and I shook my head, and his mouth thinned before turning back to resume working.
+
+Barely two hours earlier I saw Marie drop dead from a bullet to the chest, and Tyler would likely be in custody at that moment... assuming he was still alive. Daryl had been out of town when the feds showed up—some sort of business meeting, the exact details hadn't mattered to me back then—and I had to wonder if he had been stormed at the exact same time. His fate didn't matter to us right now though.
+
+At this point, it was just me and Joseph.
+
+He pressed the power button and the computer turned on, and had I not been so somber I would have likely winced at the old Windows XP  logo that appeared on the screen. Bootup proceeded slower than I would have hoped, and the entire time I stood by the basement door, warily watching for the sign of headlights shining through the window at the top of the stairs to suggest unwanted visitors.
+
+After what felt like hours the computer finished booting up and Joseph did his thing, finishing the final steps to get Artris access to the computer. He opened Notepad and typed, speaking aloud for my benefit as I continued to stand sentry.
+
+"Artris. Did the mike pick up and save what happened back at the lab when the feds stormed in before I did the emergency shut-down?"
+
+A long pause, so long I almost thought the connection might have failed, that Artris might not be in that server after all. Then, *'Yes. They want the transcript.'* And then a '. . .' to indicate a meaningful pause as Artris 'thought', the closest thing Artris could create to hesitation. '*Who is typing? And who is with you?*'
+
+Joseph exhaled shakily. Artris couldn't 'see' us without a webcam, she couldn't hear us. I wondered what she 'saw' right now, if it was just an old desktop not even connected to the internet. It felt claustrophobic to imagine. "Erika," he said as he typed. "Everyone else is MIA or down for the count."
+
+*'Do you mean...?'*
+
+I could hear his voice waver as he read her words aloud, my heart twisting even as I stared up the stairs at that dark window. The clatter of the old keyboard sounded very loud in that heavy atmosphere, each click of the keys penetrating the silence. "Yeah. Dead."
+
+I swallowed at this point, my mind flashing to the clammy feeling of Roxie's cold hand. "Ask her about the transcript," I said, my voice tight yet somehow stable. "The guy who shot Marie asked about that specifically."
+
+"R...right." He nodded and typed silently, presumably repeating my question. After a long pause, he loudly groaned again, and I risked turning away from the doorway to peek. The font size had been increased and even as I watched it was bolded and underlined, allowing me to see Artris's response clearly.
+
+**"THEY CANNOT KNOW. DO NOT LET THEM KNOW. DO NOT LET ANYONE KNOW."**
+
+Joseph turned to look at me, our eyes meeting. He looked tired, so much older than just that morning. "What do you think?" he finally asked. I didn't respond, just held his gaze before turning back to the door.
+
+"I don't know," I said lowly. "That tablet... I knew a bunch of history and crypto-nuts have been fussing over it, but I didn't think the damn *government* would—would *kill* for it!" My voice rose and wavered slightly, my mouth feeling far too dry to continue.
+
+"Me neither," Joseph muttered. "Just... damn. If they're going this far, then... They gotta have some inkling on what's on that thing. And they want it this bad."
+
+"Ask her," I said, not looking back at him. "What is it?" After a while, I heard the click-click-click of keys.
+
+Then, a few minutes later, another click-click-click. I stared up the stairs at the dark window listening to Joseph silently 'speak' to Artris, no doubt arguing and haggling with her for a reason for *why*, why so many of us had died and why my car had Roxie's blood and why we now hid in a basement with me watching for even the tiniest flicker of light.
+
+Finally, I heard Joseph stand up, walking over to me. He pressed a hand on my shoulder, a silent gesture to go look at the computer myself. We traded places without a word, neither of us meeting the other's eye as I turned and walked past him. The Notepad document had resumed its original font size, and I sat down and read.
+
+*'It's the story of the universe. It tells how human society ended once, trillions of years ago, and how the universe reformed. I cannot say more than that. If the transcript is released, it will ultimately cause a loop, and society to collapse once more. This time, I do not know if it can reform.'*
+
+It sounded so ridiculous reading it, something out of a bad sci-fi or fantasy movie and far too vague, but looking at it I felt numb. I thought of the terror in Marie's eyes as she looked down to see the bullet wound in her chest. I thought of Marcus screaming for us to go as we hurried the backup server to my car. I thought of Roxie... just, Roxie.
+
+Then, Artris typed once more, one letter at a time.
+
+*'Destroy me. Please. The transcript cannot be released.'*
+
+I looked at the screen. I looked at the server. I looked at the product of years of obsession, the culmination of my life's work—my *child*.
+
+I exhaled shakily and typed, one slow letter at a time.
+
+*'Goodbye, Artris. It was good knowing you.*'
+
+The last thing Artris typed was, *'Thank you for creating me.'* Then I shut down the computer, and the screen went black.

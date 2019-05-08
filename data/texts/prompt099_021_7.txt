@@ -1,0 +1,25 @@
+Don't connect the blue wire.
+
+I remember that first day like it was yesterday.
+
+I was on the shitter—of course, right?—and I had a small epiphany. Suddenly, I knew origami. This shouldn't be a new feeling to anyone, really, but for me it was the first time, a totally new feeling. See, if a parent-to-be wanted their kid to be an electrical engineer, they'd name them Bob. "Sam" for physicists, "Alexis" or "Alex" for botanists, "Eve" for guitarists. My parents couldn't decide, so for me they went with "Irvince." And man, I love them, but it was *hard* growing up. All the "Donn"s (teachers) died out a while back, so I was left to fend for myself and find a place in the world. I could never really relate to any of the professionals, but someone will always need manual labor, so I got by doing odd jobs around town. But that day, I learned something, and I knew something was up.
+
+I figured, for now, origami isn't an uncommon thing to learn, so maybe I just learned it and forgot, or if there really was another Irvince out there, I wouldn't find them any time soon. But, the next day, I learned how a car engine worked. And two days later, how to fly a sail. There was definitely someone else, and I needed to meet them. I came up with a plan.
+
+I studied my town. Every little last detail, committed to memory, north to south, top to bottom, Aaron (a clinician) to Yvonne (a writer). Other Irvince would learn too, and could figure out where I was. I'd memorize a date, and they'd come to me. And it seemed like they had the same idea. I learned about old people and young people, wide streets and narrow streets, good times and bad times. But… never any names. I memorized the date April 7, forged a spot in my brain so that if I forgot everything else, I would know April 7. But it came, and it went.
+
+Names and numbers don't transfer, apparently. Neither of us could figure out where the other was.
+
+So. Okay. Plan B. Well, actually, I wasn't able to come up with anything for a while. Other Irvince was more determined than I was, and I kept learning things about small city politics, and about their dry but temperate climate, for a few weeks after I had given up. One day, then, I was hanging out with a Bob, and while they were complaining about their current contract for some scientific machine, they explained how a compass worked. And that… that gave me an idea.
+
+I called it the "Pathfinder," and I started as soon as I could. I found all the boat builders I could, all the electricians I could, all engineers of all types, and learned from them. Everyone can teach a little bit. And just like before, my partner caught on. One day, a transmission. One day, a rudder. One day, a tail fin. One day, a propeller. We'd build it together. And one day, the navigation system. Just like the compass, it was designed to point to one specific place on Earth. No matter how it was built, it was designed from the ground up so that Pathfinder would find its way to a meet-up point. We would fly away, and no matter how long or arduous the journey, we *would* find each other.
+
+It was almost done. I was putting together the final pieces or the navigator. Red wire to the terminal 686, 2.5 volts to transistor 324, and a bit of elbow grease on the serial port. We were on our own at this point, learning from experience. But on that final day, I learned something special. I learned the most important thing I have ever learned, and will ever learn.
+
+Don't connect the blue wire to ground.
+
+It looks innocuous, but there's more to the connection that you think.
+
+Don't connect the blue wire.
+
+That would kill you.

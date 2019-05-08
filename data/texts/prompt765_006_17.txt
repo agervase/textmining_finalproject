@@ -1,0 +1,37 @@
+TO: akjdaaQuard@Gfrey.net
+
+SUBJECT: requesting termination of Species-42
+
+Mxr. Quard, as I am sure you are aware, Species-42 is one of many to have been blighted by the Pax. Unfortunately, all of our efforts to contain the outbreak have failed. Operatives C, X, and K were all, for lack of a better word, slaughtered by the infected. This particular strain of the Pax has proven resistant to otherwise lethal doses of agent FF7700. Thaumiel-90's field generators malfunctioned, and ISON self destructed before it could purge the infection. Our models indicate that Species-42, and by proxy, the Pax, are likely to attempt colonization of the Aleph Tauri system and assimilation of the Omega-Terryf anomal within the next 1.2 x 10^^7 rels.
+
+I don't need to remind you of what happened the last time an infected species did such a thing, nor do I need to tell you that we cannot allow such a thing to *ever* happen again.
+
+I regret to inform you that we are running out of time, and that we have exhausted all other options. I must urge the council to deploy the BFG immediately.
+
+Yours truly, Dmr. Jack Bright.
+
+&nbsp;
+
+The council had made its decision. Now, somewhere in in the depths of space, a pair of mirrors had received the signal. The mirrors, each with a diameter of 30 kilometers, were suspended in the upper atmosphere of a a blazing orange dwarf star. As the two mirrors aligned, their surfaces parallel to each other, one could've been forgiven for assuming nothing had happened at all, for indeed, nothing visible had happened at all.
+
+In the infrared, however, it was a very different story. We think of stars as if they were big balls of hot stuff in space, but that really isn't the case. For one thing, [a star doesn't actually have a definite surface](https://www.researchgate.net/profile/Amir_Caspi/publication/51890986/figure/fig1/AS:645717840388099@1530962538860/Cutaway-view-of-the-Sun-showing-the-interior-layers-and-average-temperature-values-and.png), it just gets less and less dense as you get further away from the core. Once you get far enough away from the core, the stellar material becomes transparent to photons, and as you get further and further still, the density eventually resembles that of a standard gas. Furthemore, counter-intuitively, this "atmosphere" can be a whole order of magnitude hotter than the "surface" of its star. If you were in the right place during the Pan-American solar eclipse of 2017, you may have even seen this stellar corona, [as it is responsible for the glowing halo that surrounds the moon once the sun itself is completely obscured.](https://ase.tufts.edu/cosmos/pictures/CambEncySun/Sun_ency_figs_5/Fig5_18.jpg)
+
+It is within this stellar atmosphere of superheated plasma that our two mirrors were suspended, and, as seconds passed,  the mirrors began to form a resonant cavity, as a powerful beam of infared laser light accumulated between them. After several minutes of accumulation, a comparably small aperture opened in one of the mirrors, sending a concentrated monochromatic beam through a series of lenses that focused the beam upon the reflecting panel of a relatively small spaceship.
+
+Keyword: Relatively. Compared to 30 kilometer mirrors, the ship, a mere 1 cubic kilometer of depleted uranium and a mirror, was small. However, unlike the mirrors, it was very, very, *very* heavy. 
+
+But just how heavy was the ship?
+
+There are 10^^15 cubic centimeters in a cubic kilometer of depleted uranium. Each and every single one weighs 19.1 grams. The ship, therefore, had a mass of 19,100,000,000,000 kilograms. In other words, it was a 21 *billion* ton ball of uranium, and several years later, it had been accelerated to 0.9c, and was currently barreling through the sol system on a collision course with Earth.
+
+Keep in mind that just a *single* kilogram of mass at that speed contains enough energy to rival a 25 megaton theormonuclear bomb.
+
+There literally was no force on Earth that could stop it now. *Homo Sapiens* was doomed.
+
+&nbsp;
+
+[Further reading on stellar lasers](http://laserstars.org/amateur/scifi.html#mirrors)
+
+[How aliens might actually go about exterminating humans](https://www.youtube.com/watch?v=yXWe8g0zziw&t=0s)
+
+

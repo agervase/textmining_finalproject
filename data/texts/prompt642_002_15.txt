@@ -1,0 +1,25 @@
+**Item #:** SCP-B0T
+
+**Object class:** Keter.
+
+**Special Containment Procedures:** SCP-B0T is to be kept in a standard steel and reinforced concrete autonomous weapons chamber. The structure of the chamber must be monitored and routinely repaired. ~~Repairs must be completed by autonomous robots.~~ ~~Repairs must be completed via remote controlled robots.~~ ~~Repairs must be completed after SCP-B0T has been temporarily disabled via EMP blast.~~ There must be two containment chambers dedicated to the containment of SCP-B0T. SCP-B0T is to be rotated between these chambers on a weekly basis, using D-class personnel close to their monthly termination to lure SCP-B0T into its next chamber. Repairs are to be completed after SCP-B0T has been moved. 
+
+Currently, SCP-B0T is able to compromise 68% of the chamber's structure within a week, with an increase of .005% per week. Updated containment procedures are being investigated. 
+
+**Description:** SCP-B0T is an autonomous, extraterrestrial weapon designed to appear as a common autonomous household vacuum cleaner, with the exception of a bowie knife taped to its top. Upon inspection, though, its internal structure does not resemble the internals of its non-anomalous counterpart. With only 10% of components being identified to date. Care must be taken when disassembling and reassembling SCP-B0T, due to its slow regeneration properties. 
+
+SCP-B0T is designed to have an extreme penchant for killing any and all sapient life. SCP-B0T accomplishes this task through learning and self modification of both its structure and methodologies. When first contained, SCP-B0T's sole weaponry was the aforementioned bowie knife. Since then, it has acquired:
+* EMP hardening
+* Physical hardening
+* A form of compulsion that is soley effective on other robots.
+* A 1GW ultraviolet laser 
+* Amnesetic and poisonous gasses
+* Flight capabilities
+* Speed increases
+* Sonic weaponry
+* Properties similar to [SCP-2925](http://www.scp-wiki.net/scp-2925)
+* [REDACTED]. 
+
+SCP-B0T was discovered in the town of [REDACTED], Kansas, USA. Initially believed to be a large meteorite, several witnesses approached SCP-B0T out of curiosity. The Foundation was alerted through normal monitoring channels due to a sudden spike in fatalities in the 100km touchdown radius. Any surviving witnesses and medical personnel were given amnesetics and released, post interview. The Foundation released an official cover story of a chemical spill, and released the cadavers to the families, post cremation.
+
+Cross testing with [SCP-682](http://www.scp-wiki.net/scp-682) is pending O5 approval.

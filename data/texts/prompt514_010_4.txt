@@ -1,0 +1,33 @@
+He awoke to a dull roar of hushed concern and panicked whispers, but he entirely failed to notice them. Reality slowly faded back into view, replacing the pleasant dream of the  ocean waves, sunset, and margaritas served by a bikini\-clad brunette. Unfortunately, reality was far less relaxing, as the cabin of the starliner Isaac had dozed off in was significantly less comfortable. 
+
+*I need that vacation*, he thought, as he wiped the last vestiges of sleep from his eyes. He blinked and called up his EyeQ HUD, a heads\-up display projected directly into his retina.
+
+**Error: No Hypernet Access**
+
+The words streaked across his field of view in slowly pulsing bright red letters. He blinked again. That had never happened. The Hypernet spanned all of human\-colonized space, and outages were unheard of. He dismissed the alert and was presented with his offline homeview. It was mostly barren, but one key element that worked even without a Hypernet connection immediately caught his eye: the clock.
+
+**Saturday, June 6, 2218 \- 15:21.**
+
+*This flight was supposed to be over 3 hours ago,* he thought as panic gripped his throat. *My presentation is supposed to start in 9 minutes!*
+
+Isaac dismissed his EyeQ and tapped the "Call" button on the touchscreen embedded in the chair in front of him. Slightly panicked, he poked his head out into the aisle, and noticed with dismay that nearly \*all\* of the call lights above each alcove were flashing their impatient blue flash. He glanced at his aisle partner, still asleep in his chair, but his eye was instead drawn to the window. He had expected to see either stars or the chaotic streaking of stars and lightnoise that accompanied slipspace travel, but what greeted his eyes was neither.
+
+The space outside the starliner was mired in murky, smoky reddish clouds that seethed and boiled like an angry storm on the horizon, except there was no horizon, just more murk. Occasionally a spark of crimson lightning would cut through the thick fog, playing tricks on Isaac's eyes as ominous\-looking shadows appeared to dance in the depths of the mist.
+
+"Excuse me, um... what's going on?" he inquired of one of the flight crew as she hurried by. She threw a half\-worried, half\-apologetic look at him before responding.
+
+"I... please just remain calm. We're doing everything we can to get this sorted out as soon as possible." The trembling in her voice betrayed her otherwise calm response, and Isaac glanced back to the window before confronting her again. 
+
+"We left New Beijing a little over 5 hours ago," he replied calmly.  "Even with busy shipping lanes, it should have taken us no more than 2 hours in slipspace to get into the United Korea system, and only another 10 minutes to make orbit and set down on New Seoul. Where in the hell are we?"
+
+The crewmember, identified as Ashton by her golden spaceship nametag, gave her best approximation of a weak smile. "To be honest, sir... we don't really know. We entered slipspace on time. When we came back, though... the stars didn't. We've been flying through this... this fog or nebula or whatever it is for hours." She gently reached above him and cleared the Call he had placed earlier. "We'll let you know as soon as we know more," she finished, and hurried off to calm another distressed passenger.
+
+Isaac brought his EyeQ back up again, and toggled on some of its more interesting capabilities. Wirelessly hacking into the starliner's systems, he was presented with holographic views of various external sensors, all showing the same thing: the thick, murky fog. It seemed almost alive, and incredibly unsettling to look at. He blinked and closed the video feeds, and turned his attention to the ship's communications subsystems. These were almost always encrypted, but with the right hardware, anything could be decrypted. Sure enough, after a moments concentration, the encryption was broken and he had access.
+
+To nothing. The commwaves were devoid of any traffic. No voices chattered away across the stars, save one: the hollow and hopeless voice of the starliner's navigation officer pleading for a response.
+
+He closed his EyeQ again and rubbed his face before glancing back at the window, hoping the gesture would wake him from this dream. The crimson fog reminded him he was actually awake, and punctuated the thought with another flash of that eerie red lightning. This time he was sure he saw...
+
+"**GONE!!!"** came a sudden shout from his aislemate, suddenly wide awake, "Everything is gone! The planets, the stars, the moons, the people..." He turned with wide, bloodshot eyes to Isaac, while pointing at the window behind him.
+
+"But we are not alone..."

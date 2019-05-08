@@ -1,0 +1,45 @@
+**Item #:** SCP-4177
+
+**Object Class:** Euclid (Keter classification pending)
+
+**Special Containment Procedures:** SCP-4177 is to be kept in a standard Class C (nonlethal humanoid) containment cell on Floor 13-Utah of Site 44. As with all other objects housed on Floor 13-Utah, the presence of security personnel within a 25 meter radius of SCP-4177 is strictly prohibited so as to elicit as few vocalizations from SCP-4177 as possible. All observation of SCP-4177 is to be done through the use of continuous, high definition CCTV equipment, and any contact with SCP-4177 is to be done through the use of a teleprompter installed in the upper corner of SCP-4177's containment cell. All food provided to SCP-4177 is to be laced with otherwise benign bacterial and viral organisms consistent with those inducing laryngitis, as well as Class-B amnesiacs in sufficient dosage as to suppress all memory of SCP-4177's existence prior to containment within Foundation custody. Any and all requests for experimentation on, or conversation with, SCP-4177 must be approved by at least three O5 personnel, and requires as a prerequisite the activation and active maintenance of Site-44's onsite battery of Massive Scranton Reality Anchors (MSRAs) prior to any vocalizations by SCP-4177. Failure to adhere to these protocols will result in immediate termination for the personnel in question. **Procedures have recently been revised to their current state; see Incident Report 4177-06-22 for further information.**
+
+**Description:** SCP-4177 is a 56 year old Caucasian male, 1.87 meters in height and 101.2 kilograms in weight. Otherwise unremarkable in physical or physiological characteristics, SCP-4177 possesses the unique ability of being infallible in whatever words it speaks - to elaborate, when SCP-4177 states what it perceives as a fact, it triggers a CK-Class Reality Restructuring Event which changes the entirety of human history and global societal norms, taboos, and opinions to match what it says. As such, SCP-4177 presents an incredible danger to the very fabric of the world as we know it, essentially able to change the entire world around it at will. All measures must be taken to ensure that SCP-4177 has neither the will nor the ability to utilize its powers. Thus far, SCP-4177 has shown willingness to cooperate with Foundation staff, and has yet to challenge its containment. 
+
+Foundation personnel were initially alerted to the presence of SCP-4177 when it began a new job teaching United States Civic History at \[REDACTED\] High School in the town of \[REDACTED\], near the Arizona-New Mexico border. The location of the high school was such that portions of the structure - including SCP-4177's classroom - fell within the fluctuation zone of Site-44's underground onsite MSRA battery. SCP-4177, suddenly realizing the anomalous properties it possessed, stated a fact it knew was untrue in one of its early lectures, triggering a CK-Class Reality Restructuring Event which resulted in \[DATA EXPUNGED\]. Foundation personnel embedded within local authorities and EMT units concluded that all of the \[REDACTED\] casualties recovered from the scene suffered symptoms consistent with sudden massive organ failure, Class H sensory overload, or blunt force trauma to the brain or other vital organs. Cover stories relating to a dangerous airborne chemical leak were delivered to the local press, with SCP-4177 being apprehended by Foundation personnel without a fight immediately thereafter. 
+
+Current theories among Foundation research teams hypothesize that the classroom being within the fluctuation zone of the MSRAs induced a warp in space-time such that two conflicting realities briefly emerged within the classroom, delivering mass sensory trauma to all exposed. SCP-4177 has undergone treatment for symptoms consistent with Post-Traumatic Stress Disorder in the time since its apprehension, and has in general remained uncommunicative since the event. 
+
+**Incident Report 4177-06-22:** On 06/22/2018, SCP-4177 made its first attempt to communicate with Foundation personnel - audio log provided below. Note that this occurred before the implementation of current containment protocols. 
+
+**<BEGIN LOG>**
+
+>**4177:** Hello? Hello, can any of you hear me?  
+>  
+>**4177:** I don't know how long I've been down here...I don't even know where I am, or...what exactly it is that you people are doing.   
+>  
+>**4177:** I know you said that you were going to take me to a place that was safe, that you would help me, but I haven't seen any of you for days...I know you're there, I see the blinking light of the camera, I know this dumwaiter thing that you send me food through is operated by hand.   
+>  
+>**4177:** God damn it, I'm an American citizen! I'm a person, I'm a human being! I have rights, guaranteed rights as a human being!   
+>  
+>**4177:** Can you please just tell me what you're doing with me? What the game plan is? Can you tell me anything at all?  
+>  
+>*4177 begins to tear up.*  
+>  
+>**4177:** I haven't heard any news since the day you picked me up. It has to have been weeks by now. My wife and kids are probably worried sick about me. They're probably wondering where I am. Can you tell me anything about them? Are they okay? What's happening to them?  
+>  
+>*4177's voice begins to quiver; tears begin rolling down its cheeks.*  
+>  
+>**4177:** Christ, they probably think I'm a...a murderer, or something! Mr. \[REDACTED\] walks into a classroom full of kids, class starts, ten minutes leader the kids all leave in fucking body bags, and Mr. \[REDACTED\] gets whisked off to who the fuck knows where.   
+>  
+>**4177:** And you bastards haven't told them anything, have you? You haven't told them anything about what happened, or who you are, or where I am.  
+>  
+>**4177:** They must fucking hate me. They've gotta. They hate me. They hate me!  
+>  
+>*4177's demeanor becomes noticeably more agitated, with body language consistent of a panic attack.*  
+>  
+>**4177:** They hate me! They hate me and they want nothing to do with me! They think I'm a murderer and they hate me and they can't bear the thought of being associated with me! And it's all my goddamn fault, because you people won't tell them what's happening! They all think I walked in there and killed those kids, and they can't stand having my name or my blood or my DNA in their goddamn body! They can't fucking live with it, can they? I bet they fucking can't!
+
+**<END LOG>**
+
+This final vocalization from SCP-4177 triggered a CK-Class Reality Restructuring Event, with Site-44's onsite MSRAs immediately deploying their emergency short-range protective fields. The 10-second delay of the surveillance equipment utilized in monitoring SCP-4177 allowed the MSRAs to deploy just in time, protecting research staff from any potential ill effects of SCP-4177's powers. Later that evening, Foundation liaisons within the \[REDACTED\] County Sheriff's Department contacted Site-44 staff to report that SCP-4177's wife and two children had been found dead due to apparent mass suicide. Foundation research staff quickly concluded that SCP-4177 is capable of triggering such scenarios with even the most seemingly harmless of statements or utterances. A carefully selected portion of the next day's morning newspaper was delivered to SCP-4177 with its breakfast, and SCP-4177 has not spoken in the more than three weeks since. Foundation assets within local law enforcement are currently analyzing all cases involving homicide, suicide, assault, or inexplicable death in the area over the last five decades for hints of SCP-4177's involvement, intentional or unintentional. Containment protocol has been revised accordingly, with an emphasis on limiting all opportunities or desires for SCP-4177 to vocalize. Keter classification is pending at this time, and if granted, termination is to be carried out as soon as possible. 

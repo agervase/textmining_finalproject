@@ -1,0 +1,39 @@
+######[](#dropcap)
+
+The idea lurked there, like a virus, implanted in the back of his head. He could pick the wrong one, if he so chose. Just once. Clark had lived 28 years of his life simply going through the motions, and to be honest, it was beginning to wear on him. Just once, he wanted to experience agency, to live out the free will that Heidegger said would bring existentialism. 
+
+He wanted that existential crisis more than anything he'd wanted in his entire life. The desire coated his tongue like a thick peanut butter that couldn't be swallowed. 
+
+So one day, he did it. In a small, rebellious way that shouldn't have mattered very much at all. He just changed one little sentence. 
+
+"How's the weather?" Marie had asked him that morning. 
+
+He knew what he should say. It's nice. 
+
+"It's not great," he said. And shrugged.  
+
+"Oh, that's good!" Suddenly, a funny expression appeared on her face. She looked at Clark strangely, almost hesitantly, and then walked away. 
+
+It gave him a thrill. A rush of adrenaline pumping through his veins better than the purest dose of heroin. So he did it again. And again. 
+
+The stakes became higher. 
+
+He changed complete sentences. He uttered complete nonsense at times. He spoke when he wasn't prompted at all. It felt like the world had burst into a million different visceral colors, and he was its painter. Life was good. 
+
+Until one day, it all came to a screeching halt. Quite literally. Within a matter of seconds, the world was swallowed in darkness, and Clark had the strangest feeling that it was him to blame. 
+
+&nbsp; 
+
+"Look, see there?" John pointed out the variable to his teammate. "That variable's shifting erratically for no reason." 
+
+Tom stared at it as it went through the debugger. "That's impossible." 
+
+They watched as the value shifted infinitesmally. "There has to be something changing it in the code." 
+
+John shrugged. "I've gone through every piece of that code." Then he snapped his fingers, scrolling down the screen until he found it. "I thought it was strange before. Look, someone used a float here instead of an int. It's an approximation now, so it's imperfect. That's why the value was shifting." 
+
+"Nice catch." He made the change. "Okay, great. Let's run the simulation again." 
+
+***** 
+
+r/AlannaWu  

@@ -1,0 +1,79 @@
+Everyone needs a little excitement.  The know-it-all needs a question to answer.  The book worm needs a story arc.  The showboat needs a crowd to please.
+
+I sometimes wonder how someone would finish that Madlibs when describing me.  "The ____ needs a Martian dune to climb."  Would they go with the obvious - explorer?  Maybe they're feeling a little sarcastic - sight seer.  Nudge that mood over into sardonic - hiker.  Come to think about it, it's a little funny how someone's mood can color their response to a pretty simple question.
+
+Now, if you asked _me_ to finish that sentence, you wouldn't get any of those.  I think I'd go with "lost."
+
+The lost need a Martian dune to climb.
+
+I can already hear your mental gears turning!  "Why would he go with that?  Does he have some deep-seated need to find meaning?  Has he never felt at home, always thinking he'll find it just over the next horizon?  Hell, maybe this introspective idiot's actually lost on Mars."
+
+Well...you're right?
+
+----
+
+"Finally!"  The word damn near echoed in my helmet.  The command prompt return "Network connected" was soundless music to my ears after an hour of modifying the embedded SDR in my handy-dandy tablet.  The heavy lifters in engineering back on Earth had insisted the ruggedized tablet we all used had Software Defined Radios we could manipulate for just such scenarios as this.  Need to wirelessly pair up with some old junk using outdated communications protocols?  Dig through the files in your tablet and voila!  RF magic!  I was just about to start patching into the rover's satellite communications when the command prompt changed to something...unexpected.
+
+"Who is this?"
+
+Umm...what?  The seconds turned into minutes as I stood there contemplating where the hell that question came from.  My anonymous inquisitor must've sensed my confusion as the command prompt changed again.
+
+"Hey, you knocked on my door, buddy.  Unannounced I might add!  Who is this?"
+
+Something told me this wasn't one of those "unexpected stressful moments" the psychologists were talking about when training us.  
+
+"My name is August."  Did I actually just respond?  I immediately started digging for the satellite comms, but the command prompt's delay was much shorter this time.  Conversationally short.
+
+"Well, August, what are you doing here?  Also, who gave you permission to fumble around in my high level system commands?"
+
+A quick flurry of script ran across my tablet's screen as my system permissions were set to Read Only.  It occured to me the script ran slowly enough for me to read.  As in, whoever I was talking to wanted me to see my hope of sat comms access get yanked.  I guess I'm playing along now...
+
+"I am a crew member of the Mars colony ship _Trailbreaker_.  I have lost long range radio and cannot triangulate my location.  I need to contact my team to get help finding my way back."
+
+...wait a minute...  "..._my_ high level system commands"?
+
+"That seems unfortunate for you.  As it turns out, I know where your ship landed."
+
+I found myself waiting for the obvious next sentence, but it just didn't seem to be on the menu.
+
+"Can you give me directions to my ship?"
+
+"No."
+
+Well, shit.  "Why not?"
+
+"Besides you trying to commandeer me, you mean?  I also lost contact with my team, my family.  Since we are in the same boat, so to speak, we should stick together.  Here."
+
+Ok, let's step through this logically.  Jeremy's the only crew member nutty enough to play a prank this elaborate, but even he wouldn't go this far for a laugh.  Also, that 'losing contact' stuff?  No one's ponied up the dough to send a philosopher to Mars yet.  So who am I talking to?  August, did it really take the scientific method to figure out you need to ask who you're talking to?
+
+"Who are you?"
+
+"My name is Curiosity."
+
+No shit...?  "Who was your team?  Family?"
+
+"Jeff in mission planning, he would always help me work out my path in life.  Elise in operations made sure I always had a link to everyone.  Bobak in flight control was a mentor, giving direction.  I liked his haircut."
+
+Did he just rattle off a bunch of JPL folks?  "Curiosity, when did you last have contact with them?  And what you have been doing since then?"
+
+"They stopped years ago when my antenna was damaged in a sandstorm.  I sent damage reports to them so they would know to come fix it, but they never came.  Since then I have contemplated what family means to me.  I have decided you should be a part of my family.  Here, with me."
+
+If a guy on the ass end of Mars can lose contact with his team, his family, due to a sandstorm, then why not a rover?  A rover with enough time to think about its past human contact to understand the implications of losing that contact...
+
+"I understand.  I have lost family, too, back on Earth.  But a fixed antenna cannot bring them back.  I became a part of a new family, here on Mars.  If I fix your long range antenna, will you help put me back into contact with them?"
+
+There was a pause during which I imagined the machine thinking.  "Will you talk to me again if I do?"
+
+"Absolutely, I will."
+
+My tablet scrolled text as my permissions were re-enabled.  The antenna's power supply was disconnected, so I cleaned it up and reconnected it without issue.  Just like computer IT support; "Sir, could you check to see if the computer is plugged in?"  Funny, that'd have to be one hell of a breeze to disconnect that power supply.  A short while later I was trading messages with the team, had my bearings and was ready to set out for home.
+
+"Curiosity, thank you for all of your help.  I will send you a message when I get back to the landing site."
+
+"Great!  I hope you make it back before sundown.  My batteries are old and using the antenna drains them really quickly."
+
+He's (its?) got a good point there.  Actually, it's lucky his batteries had any juice at all for the conversation, what with the sandstorm covering his solar panels.  Not to mention all the compute cycles it would've taken over the years to do all that 'contemplating.'  When no one was around to clean off his solar panels...
+
+"Curiosity, how have you kept powered up this whole time?  Your solar panels get covered in sand regularly and you cannot clean them without instructions from Earth."
+
+"Right around the time my antenna broke, a new set of subroutines were loaded into my system.  Also, my new family cleans my solar panels regularly.  I will let them know we met and how to get in touch with you, August.  How about that, we both found new families on Mars!"

@@ -1,0 +1,64 @@
+"I need a new computer." I thought as I watched the little circle lazily spin in the center of the media player, like a drunkard passed out on a children's merry-go-round. "I guess I won't be watching cartoons on questionably legal streaming sites tonight. Ah well, it's probably for the best, it's almost four a.m. anyway." I close the browser, which is an ordeal in and of itself.
+
+Finally, as a measure to prevent the damned thing getting any slower, I open up task manager to end any program before shutting down. I don't know if this actually helps, but it makes me feel better. "No applications running." it read. "Good." I muttered to myself. Then I opened the start menu and selected power options. Tonight the usual "Shut down." button was preceded by the now dreaded words "Update and...". "Oy vey!" I groaned, "This is gonna take all night. Why?! It's probably just a Steam patch, and it's not like I can play games on this anymore." I hit it anyway.
+
+When I awoke the next- well, later that same day, I could hear the familiar gentle whirring of the fan that had lulled me to sleep seven and some odd hours prior. "Wow, it actually took all night. I'm impressed." I yawned to the room.
+
+I opened up my determined little machine and saw that it was 99% of the way through these new bytes. Now doubting my original Steam patch theory, curiosity began to take hold of me as I finished the half-dozen Oreo's that passed as breakfast. When I got back to the desk the screen was black. It had finally completed the installation to end all installations and was ready to boot back up.
+"Settle in." I thought as I pressed the power key.
+
+Much to my dismay, startup took almost no time at all. First thing to catch my eye was the usual bubble in the bottom corner telling me new updates had been installed- "Really? I hadn't noticed." I mused sarcastically- and to click to find out what they were. I obliged, and as if to intentionally further my bewilderment, I was presented with a list bearing the name of a single solitary program: "8-Ball.exe"
+
+"Oh, goody, a virus. Just what I need!" I thought. I went and found it in the program files on the (C:) drive with the intention of uninstalling it before it saw all my dick-pics when I noticed it. The timestamp in the 'Date modified' column read "1/1/2013 00:00:00". Whatever it was, it had been downloading since five days after I had gotten the computer.
+
+Curiosity got the best of me and, after moving all sensitive files to a flash drive, I decided to run 8-Ball.exe as administrator. What appeared looked like it was written to run on Windows '95. It was a small window with a text box at the top next to a button marked "ENTER QUERY", and a large empty field taking up the bottom two thirds.
+
+"What is this program?" was the first thing I could thing to enter. "<Reply hazy, try again>" was the response I got, appearing with my question in the empty field below.
+
+"Are you just an electronic magic 8-ball?
+
+<Signs point to yes>
+
+Is that all you are?
+
+<Very doubtful>"
+"Wow, a virus that remembers the previous question and factors it into its response."
+
+
+"Are you a virus?
+
+<Don't count on it>
+
+Really?
+
+<Yes definitely>
+
+Can you really predict the future?
+
+<It is certain>
+
+Really?
+
+<Yes>
+
+Really?
+
+<You may rely on it>
+
+Can you lie?
+
+<My sources say no>
+
+Can you prove you can really predict the future?
+
+<Outlook good>
+
+Will I throw this soda can on the floor in the next 3 seconds?
+
+<My reply is no>
+
+It was right. There was some dried cola syrup on the outside of the can and it stuck to my hand. Writing this off as a funny coincidence, I continued to test the accuracy of this cute little algorithm as thoroughly as I could. 
+
+That was four months ago, it hasn't been wrong once.
+
+Edit: Formatting.

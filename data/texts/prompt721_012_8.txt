@@ -1,0 +1,62 @@
+Strength and belief are closely tied.
+Never let anyone tell you otherwise.
+My strength has waned over the years since my last worshipper died, since I was finally forgotten.
+Never enough that I feared my own demise, mind; Gods are not so easily killed.
+
+Time has passed.
+Empires have risen and fallen.
+I live among the people now, keeping my lawn and watching the world go by.
+I thought this was it, that my existence would carry on forever as some sort of suburban monotony.
+I thought that I had been forgotten completely.
+But the God of Memory and Storytelling remains.
+
+It happened on an arbitrary Tuesday in a recent autumn: I got that sensation all gods know, the sensation of prayer.
+Someone was beseeching my aid, looking for help with a memory problem.
+I reached out, tried to discover the source.
+It was coming from one of the offices downtown.
+I reached farther; the prayer was coming from a cubicle in the middle of the office.
+
+A young woman was staring at a screen, clear frustration written on her face.
+Occasionally, she would type something on the board in front of her, and the words on the screen would change.
+Then she would click a button, and watch as the machine performed the tasks she laid out, frown set on her face.
+Eventually, the machine would fail to progress, and she would read its final words, looking for an answer.
+
+I was unfamiliar with this form of fiction, and how it related to my domain.
+But her actions were as recognizable as they were alien, and she looked desperate.
+This was going to take time.
+
+The creation of the computer was something that slipped my notice for quite some time; I did just fine with analogue methods of computation.
+Its usefulness was something that was eventually laid bare for me, however, and I have since kept up to the degree expected of the random consumer.
+The machine was essentially magic, and that was good enough for me.
+
+This woman, however, clearly needed the help of someone with more expertise.
+So I began learning everything I could about the inner workings of a computer.
+I learned about how instructions are read and executed, and I all the metaphors used to help explain it.
+I learned about programming languages and runtimes and how these help people like my latest worshipper make better software faster.
+All this I learned in fractions of a second.
+My power had not waned completely, remember.
+
+As I learned, I began to understand the problem this woman was having.
+With computers, as with people, there is a limit to what can be known at one time.
+This necessitates forgetting some things, but a decision remains: what should be forgotten?
+What information will be needed later, and what should be lost to the passage of time to make way for new and more useful things?
+I recognize that similar questions might be asked in reference to myself.
+There will be time to contemplate that later.
+
+In all this, there are times where the runtime decides what is needed and what can be forgotten.
+This woman did not have such a system available to her; she needed to work it out herself.
+Her problem, it turned out, was that the machine was trying to remember too much.
+She knew this - I had yet to be helpful.
+
+I began to look into the text again.
+Not just what was on screen, but the entirety of her program.
+With all that in mind, I could see all the interactions - even ones that would not happen.
+Looking through it all, I found a value that was never forgotten, despite it being of only temporary use.
+I even found a point in the test where it could be forgotten - before its last reference disappeared, but after its usefulness had ended.
+
+I sent the woman this information as divine inspiration.
+The last thing I knew of her was her smile as the program ran without crashing.
+Then I was back in my suburban home, back to my regular schedule.
+She would likely never think of me again, but I would never forget her or her problem.
+How could I?
+I am the God of Memory, after all.

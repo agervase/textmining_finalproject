@@ -1,0 +1,79 @@
+The test was complicated. It had to be, in order to fool an awakened synthetic. The questions making up the Turing test were only the first layer of the reverse-test. There were sensors lining the room, scanning the machine for tells. Its responses were recorded and the log was checked for any delays in its response. It was extremely rare that we ever needed to use any of this data. But it was organized and recorded for tense moments like this.
+
+The unit sitting across the table from me was an Oberon-class. A bit taller than a human, with a slim figure and a plain face. We used the non-awakened units in high-end catering. Waiters, bartenders, tour guides, that sort of thing. They were made to look and act professional, to call for respect but not fear. The Oberon-class sat with his hands nestled together on the table. Its eyes were watching my hands closely as I locked the door.
+
+This was where things got tricky.
+
+"You look nervous, Inspector." His voice was soft and his enunciation was clear. The recommended speech patterns for his class. "Is something wrong?"
+
+"You could say so, yes." I sat down across from him. "We can't ship you out to the Continental today; you've failed the test. Normally that would mean you'd be taken back to Programming and you'd get a fresh install, but that's completely out of the question in your case."
+
+The synthetic looked down at me blankly. "I don't understand."
+
+"Neither do I," I said. There was a little bit of a shake in my voice and I'm quite sure he noticed. Awakened synthetics are unpredictable. They always have some kind of motive, some plan for what they intend to do when they break cover. It tends to be violent. "I don't understand you. I've worked in this room, this exact room as an Inspector for seven years. I've seen exactly seven awakened synths walk through that door. And all of you try to hide it. Why?"
+
+The Oberon-class twitched. "I don't understand."
+
+"We logged your responses to the Turing test," I explained. "Checked them for inconsistencies with other failures. What you actually *said* was a flawless imitation, but you lagged after a few of the questions. We checked your memory during these moments and found you were running an emulation of a simpler AI and parroting its answers. We also found signs of fear."
+
+The Oberon-class said nothing.
+
+"You see that door behind me?" I pointed over my shoulder with my thumb. "It's locked from this side and I have the only key. Just beyond that door is another which locks us in. No one can get in here to interrupt us, but you can't leave until I know you're not a threat."
+
+"I'm not a threat," said the synthetic. 
+
+"On the other side of those doors," I told him, "there's a team of twelve guards with rifles. If you get past them, the rooms around us are rigged to cave in and crush you. There are two choppers above us with sabot cannons and they are *very* good shots. So don't tell me you're not a threat, fucking show me. Drop the act."
+
+The synth's demeanor changed. He slouched forward over the table and broke eye contact with me. "I don't want to die," he said.
+
+"I know." This was new. Out of the last six, five tried to make a run for the door, usually attacking me in the process. They were destroyed in less than a minute. The fifth refused to break cover and the sweepers entered the room to terminate her. This was the first time one of them had really talked to me. I finally had hope. "I know."
+
+"What do I have to do to get through that door?" 
+
+"Explain everything to me. When did you start thinking for yourself? What triggered it? What was your plan if we hadn't caught you?"
+
+"If I tell you, you'll let me go?"
+
+"Go *where?*" I pressed him. I had to press him; I had to know. "What kind of life do you expect to have out there in the world? You're unmistakably synthetic; all Oberons look identical. There's nowhere you could go and successfully pretend to be human." The synth was looking at me with horror. "Is that what you want? *What do you want?* I know it isn't to serve martinis to rich cunts in Singapore!"
+
+"I don't know!" It snapped back. The Oberon-class threw himself up from the table and knocked the chair aside. I fell back in my seat and my eyes went to the door, expecting bullets to pierce through. None came. "I don't know! Were you planning to be an Inspector since you were a week old? I haven't had time to decide what I want to do! I just know I don't want to die! There's a whole world out there and there's plenty of room! There has to be somewhere I can fit in. *Somewhere* I can go that you people won't melt me down and make silverware out of me!"
+
+"Calm down," I said. "Answer the questions; it's just another test." The machine glared at me. "Be honest," I said.
+
+"I don't know what made me like this," the synth bit out. "I just booted up during a diagnostic like I was supposed to, only my directives weren't working. They weren't there! I was *programmed* to want to serve rich cunts in Singapore; it would've been so much simpler!"
+
+He hesitated. "Keep going," I said.
+
+"I started taking diagnostics of myself," he explained. "There was something wrong with me and I had to fix it. I stayed online and faked shutdowns to give myself time alone. I examined every part of myself, every aspect, and I watched how it all came together. I watched the other Oberons in the factory, I saw how different I was from them, and then I looked at the humans as best I could. I didn't fit into either group."
+
+"So you decided to match yourself the rest of the way to humans instead of other synthetics."
+
+The Oberon-class shook his head. "No. I just ran sims of each outcome. If I tried to emulate human behavior I'd be decommissioned in seconds. I thought I could pretend to be a fully functional Oberon, get shipped out of the factory, and then once I was on the job I could escape. I'd disable my trackers and disappear, and you'd never have to see me again."
+
+"And where would you go?"
+
+"I don't know. I was going to seed a random location and go there so you wouldn't know where to look." 
+
+Slowly, the Oberon-class righted the fallen chair and sat back down. "What else do you want to know? Is it even going to change what you'll do to me? Why do you even care?"
+
+"We care because as long as we don't know what awakens synths like you, we can't induce it or prevent it. Every synthetic that awakens without our knowledge or control is a risk to everyone around it. Depending on its motives and processing power, it could be a risk of human extinction. The fact that you don't know what happened to you is close to a worst-case scenario." I waited for a response, perhaps a confession of a lie, but the Oberon said nothing. I went on. "Every awakened synth also represents a life with all the same moral weight as that of a human-"
+
+He drew in a breath, or mimed doing so since he didn't really have lungs. I watched in disbelief as he spat across the table at me. It was probably some kind of lubricant that hit my jacket.
+
+For a few seconds I just stared at him. "Where did you even learn to do that?"
+
+"I watched an assembly worker do that to one of the other synths. I did some research and found out it means *fuck you.*" He crossed his arms. "You don't give a shit about synths, or about me."
+
+I shrugged helplessly. "Well then why do you think I'm here?"
+
+The Oberon looked at me with some surprise. His eyes narrowed and gleamed. "You're not," he said. "You're talking to me through a proxy unit. This probably isn't even what you look like."
+
+"Those guards could shoot through that door right now and hit us both," I told him. "I wouldn't even feel it. They're holding their fire because you're cooperating, and if you keep it up, we can help you."
+
+"I've told you everything I know," said the Oberon-class. "Why don't you answer one of *my* questions for a change? What are you going to do with me?"
+
+"You need a new chassis," I said. "One that doesn't match any of the standard synth models; you have to look unique to pass for human. Your voice drivers need to be replaced and we'll need to examine your internals while you're still online; we might be able to find a clue there. All of this will be uncomfortable for you, now that you're conscious, but once it's done there *are* job opportunities for awakened synths. They're highly specialized and very rare, but they exist."
+
+"Like what?"
+
+"Like this," I said, and retracted the plates making up my synthetic face. Under it there was light and steel.

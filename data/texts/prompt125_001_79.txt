@@ -1,0 +1,35 @@
+**|   Anyone remember the old Adapt! Series? Amazing new glitch found??  |**
+
+&nbsp; 
+
+[EDIT]:
+
+I didn't expect this to get so much attention, even from non-Adapt! players! For some clarity for non-players, let me elaborate on the Adapt! series.
+
+The Adapt! series was a game for old 'QuantGame' systems that came out about 20 years ago, which used one of those old Quantum reality systems to generate some basic facsimile of the universe, then populate one of the planets in the universe with creatures generated using some basic 'Evolve' nonsense algorithm.
+
+You could then 'adapt' these creatures with attributes to allow them to survive and min-max their population, deadliness, survivability, etc. Kids back then would usually pick a few favorites and then "duel" their creatures with other kids creatures.  I know it sounds super dumb now but it used to be real popular when these Quantum systems were all the rage.
+
+[EDIT 2]:
+
+I've been asked to elaborate on what I mean by QPE/"Quantum Point Errors", well the old QuantGame systems and the such were pretty basic when it came to their calculation accuracies, only to a few trillion points of accuracy, which meant sometimes in the earlier games, the generation would sometimes bodge a few checks, like a "volcano" too big, or gravitation errors, you get the idea. 
+
+This often ended in save game wiping as these "freak" events would change the world's environment to kill all your creatures in under 1000 generations, and as the limitation of the memory at the time, the simulation had to constantly be run, if only in miniscule timescale. It sucked but hey that was the technology at the time.
+
+Ok, back onto the original post:
+
+[POST]:
+
+Guys!! You'd not believe the creatures my Adapt! 2 Save!! 
+
+Ok, some quick background. My brother and I were drinking the other night and reminiscing about the games of our childhood, and the this game series cropped up as one of favorites. He actually had his system on hand, and so showed me his current save, which was some odd spore-like creature, and SWORE to me that his save could beat mine, and obviously I'd be doing a disservice to my childhood toils if I didn't defend myself, which led to us digging out my old handhold in his attic.
+
+So I've not touched this thing in YEARS, and pulling it out and seeing the "SAVE GAME QUANTUM POINT WARNING" flash on the save was upsetting, considering the hours I've put into my save, but hell, I thought I'd give it a look anyway, I've never seen the world-view from after a QPE.
+
+Looking at the overworld status, I kinda saw something out of place, the species count was at 8.7 million, which I'm fairly sure (Please tell me if I'm wrong!) has never happened after a major QPE. So obviously I'm curious, the hulking bipedal creatures I had made were fairly good contenders and I had to see if they by some miracle had survived. I go look at the active species list and ALL my favorites had died ;-; , however the other creatures had been automatically been evolving using the game's base algorithm, and they're crazy! A lot of them are flat out weird statistically, but one really caught my eye and WOW I've never seen anything like it!
+
+The game has dubbed them "Humans" and they're these small, 5'11 bipeds with 2 decent mandibles. Physically, they're kinda pathetic, I can't believe THIS was now the most dominant species, never mind at a population of 8 BILLION. (I swear I must have caught them before they start dying off because there's no fucking way you can have 8 BILLION creatures at that size without destroying your own planet, right??)
+
+So I'm even more perplexed, and I decide to switch to the world-view and you really have to see this to believe it. (There's hopefully some screenshots attached to this post) There these huge complexes I can only assume the Human colonies have produced, like giant hives all over the planet, so this is clearly weird, and I zoom in on one of the Humans, and they're using a metallic prong of sorts to consume something? I'm not sure what's happening here but I don't think I've ever heard of a creature using tools?
+
+Anyway, that's all for now, me and my brother are still looking it over (I've attached a save game below for you guys to see), if anyone could tell me if they've ever seen anything like this, please tell me!

@@ -1,0 +1,31 @@
+I was only expecting one robot when I got home.
+
+*Ten years ago*
+
+The first iteration of Michael was pretty mundane.  While it had a body that looked vaguely humanoid there wasn't much it could do around the house.  I'd already spent years working on sensors to get it to do general purpose wayfinding and mapping and attached several small onboard processors running rudimentary neural networks to handle learning.  The goals were hardcoded, so every day it would do a bunch of tasks not unlike "check dirty dishes in sink" and "rinse each dish, and load dishwasher."  Complicated from a sensory and exception-handling situation, but pretty simple in activity terms.  I'd used several iterations of motion capture to act as the training data, and after a few weeks it had learned the most efficient way to handle the tasks.
+
+*Nine years ago*
+
+I thought I'd get Michael to do some of my physics calculations.  Some of the easier problems were pretty much plug and chug, and I thought it might be cute to get him to do some approximations based on the experimental observations.  We were probably just another thirty years away from fusion power, and while I felt honored to be part of the team working on this, I felt like I needed some outside help.  I'd added quite a few more nodes to the net, and had started feeding him information online.  I'd also started taking him on walks and talking to him.  I also added some speakers and gave him a voice.
+
+*Five years ago*
+
+I've been enrolling Michael in some classes.  Some of the teachers thought it was kind of weird I was enrolling a robot in a shop class, but he seemed to like it, whatever that meant.  I had built an approximation of emotions, but sometimes I swore he seemed almost like an alien version of human.  I also gave him a new body.  Thought he might be taken a tad bit more seriously if he looked like a super-magical Orville Redenbacher-type guy.  So no more metal Bender-type, but tall older fellow with hipster glasses, a three piece suit, nice wacky socks that matched wacky bowties.  At this point he'd learned how to dress himself, so every day he'd go to the closet and pick out something new to wear.
+
+*A month ago*
+
+Michael seems to have gotten a little bit bored of the chores, but I've managed to bribe him with trips.  I have no idea where the concept of appreciation came from, but he seems to still listen to me, even though he could very easily just go and book trips himself.  He seems to enjoy reading about biology, as well, for some reason.  At this point he's almost indistinguishable from human; his delight in certain things kind of gives it away, though.  Like when he ate a banana for the first time.  We were at Whole Foods and after we paid for the food I handed him a banana saying "try this, I think you'll like it" and he just bit into it without peeling.
+
+*Five minutes ago*
+
+So, I just arrived home from work, and next to Michael was a woman I'd never seen before.
+
+"I want you to meet Janet.  She'll help you with whatever you need."
+
+"Hi!  I'm Janet!"
+
+Me: "Wait, you're a robot?"
+
+"I'm not a robot."
+
+She's a robot.

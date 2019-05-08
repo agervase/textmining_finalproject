@@ -1,0 +1,47 @@
+"Don't you think it's strange?"
+
+"What's strange?"
+
+"That the world hasn't ended yet. There's so many people in the world, surely one of them has met their doommate right?"
+
+"Dunno. If there's so many people in the world, doesn't that make it harder to meet? I mean what are the odds of that happening anyways?"
+
+"Well.. we can estimate it right? Take one person from each pair of doommates, the probability of that individual not ending the world is (1 - n/N), where n is the number of people they meet, and N is the total number of people in the world. Right?"
+
+"Right... Well, surely its a bit more- ok fine, right."
+
+"Now we take that probability for each person, which is half the world population, and we get the probability the world hasn't ended being (1-n/N)^(N/2). Now N is pretty big right, like 7 billion?"
+
+"Right."
+
+"So this probability comes out to be around e^(-n/2)."
+
+"Uh.. I don't know how you got that but I'll trust you I guess?"
+
+"You can prove it. So for n, how many people do you think you've met in your lifetime?"
+
+"Hm... 100?"
+
+"That's.. kind of depressing actually."
+
+"Okay, uh 200?"
+
+"Doesn't your school/workplace have more people you've talked to than that? Fine, 200 it is then. The probability of the world not ending comes out to be e^(-100) for that. That's 3x10^(-44). Vanishingly small."
+
+"That.. certainly sounds small."
+
+"You ever won the lottery?"
+
+"Yeah! Actually just the other day, I got $12 off a scratchie."
+
+"Scratchie? Never mind, that's not what I meant. You know like, a jackpot."
+
+"Oh that? Nah. That's like what, a one in a million chance or something."
+
+"15 million actually. Well the one I looked at. Imagine winning that 6 times in a row."
+
+"Well didn't I see one the news that some lady had won a few times in a row actually? Wonder what happened to her."
+
+"That's not the point! The point is that if doommates were real, we'd expect the world to have been destroyed a few times over already. But we haven't. So what does that suggest?"
+
+"Wanna meet up?"

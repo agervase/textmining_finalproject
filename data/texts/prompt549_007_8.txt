@@ -1,0 +1,25 @@
+"Thank you, Senator Murray. Are there any thoughts on the story of Betsy Mae Tillotson? I asked Senator Murray to present her story here today as a representative of what many middle class people face and how worried they are about this proposed tax plan. Yes, Senator Cornyn?"
+
+"What would the lovely Ms. Tillotson do if the small business that employs her were to go under? That's the crux of this issue. You've spent the last 18 hours trying, among other things, to present this as if the new tax plan prioritizes the good of the few at the expense of the many. It prioritizes the good of the few at the expense of no one, FOR the good of the many."
+
+"Senator Cornyn, if you were, say, a capable warrior traveling with a group of similarly-endowed friends through a small, medieval hamlet and learned that they would soon be under attack from a band of marauding orcs, would you try to learn more about their situation?"
+
+"Uhhh...yes, I like to think I would. They're probably hard-working farmers with tight-knit families. If I could help them I would certainly try."
+
+"Excellent, excellent. So if they offered you room and board and a small stipend, then you would certainly stay and erect defenses and protect them when the time came, right?"
+
+"Yes, of course...wait, how did we get here in this discussion?"
+
+"Stay with me, Senator Cornyn. So after agreeing to the initially-proposed plan of assistance and compensation, you wouldn't just defend the shops, leaving the farmers naked and unprotected while holding out for more money, would you?"
+
+"I...I...no? I'm not sure..."
+
+"Senator Sanders, let's say for the sake of argument that you are traveling with Senator Cornyn. How do you feel about the situation?"
+
+"Well, I think <Bernie pause, insert others as you like> that in such a situation, each person would be bringing his or her skillset to bear on the issue in the best way possible. Let us assume, for example that I am a level 3 wizard with 10 points in my knowledge (Engineering) skill. I would magically Alarm the area around the town and supervise the construction of fortifications. While our issues with the tax plan do not have the same immediacy to them as an impending orc raid, the consequences could be just as grave. If we start penalizing the people who are out there doing their best but not getting as far ahead, we are sowing the seeds of our own destruction. So, in conclusion, were we to just protect the shops and hold out for more money, we would be filing the role of a cowardly liege lord rather than a good and just governor."
+
+"Excellent points, Senator. Now, I see that many of you wish to add to the discussion. I'm excited to hear that, but I think we should do this a little more systematically. You'll see that some carts are entering the hall. Every one of you will be presented with a laptop with a Roll20 account in your name open on it, a slice of cheese pizza purchased on sale from a local pizza joint, and a can of Mountain Dew. Besides myself, Senators Warren, Schumer, and Durbin have all volunteered to Dungeon Master different versions of this scenario. Also, surprisingly, so have Senators Hatch and McConnell. Yes, Senator Cruz?"
+
+"This character sheet doesn't have a THAC0 stat on it. I don't want to play."
+
+"Senator Cruz, we're playing 3.5e. Besides, everyone knows that only serial killers actually use THAC0. But that's beside the point. Anyway, let's break into groups with each dungeon master and play this scenario out. We'll come back in a few hours and talk about the solutions we each found!"

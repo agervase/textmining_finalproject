@@ -1,0 +1,65 @@
+My life had been a breeze up to this point. Always getting a full night's rest and never being tired, eating healthily and staying in shape, never worring about making the wrong decision. I had the perfect life most of the time. But today, I was exceptionally tired from a particularly busy week. Execs had set a launch date only 2 weeks away, and the portable hard drive carrying some of our game’s source code had corrupted. 
+
+Normally, I know how to prevent catastrophic events of this sort from happening. How? I get advice from my future self on how to make the next day as great as it can be. I thought it was dreams at first, nothing more than my imagination. But now I believe it’s some kind of time-travelling telepathic link. I follow my future self’s advice, and things work out. This has come in handily many times, getting me deals of a lifetime on cars and making the occasional gamble a guaranteed win. I even got the winning Powerball numbers from my future self once.
+
+So, to not know about something as important as files being corruped by way of this warning system was ...odd. I brushed it off, thinking that everyone was bound to deal with the fallout of at least one big problem like this. But I'm not everyone. I get told how to make my future as good as it can be, and my future self has never failed to warn me how to avoid something as important as critical data loss.
+
+Whatever. For now I had to scramble around like a normal person, cleaning up another person's mistake for not making a backup. Thank goodness the pseudocode survived.
+
+By lunchtime of the fourth day, the entire office was droopy-eyed, trying to restore 3 months of code in only 2 weeks. Since the files were lost, I hadn't heard from my future self once. No advice on what code I could fix quickly, or where a recovery file of the original code might be. Not even a recommendation as to coffee or energy drink. The first two nights I got a full night's rest, banking on the thought of my future self giving me some of the code that was missing. But on night 3, I decided not to wait for advice anymore, and I stayed with the rest of the team and worked into the early hours of the morning.
+
+I needed sleep, and so I laid down on a lounger in the break room, letting the memory foam slowly collapse under the weight of my tired and sore body. Sleep came quickly. Then, standing in front of me, was a version of myself I had never seen before. And nothing else. He was wearing the same outfit I had on that day, but it was ripped to shreds in places, and charred in others. And he had the longest beard I had ever seen outside of movies.
+
+"HE'S NOT YOU!" the tattered man screamed. His voice echoed in the pitch black space, as though somehow the entire universe was resonating to the panic in his voice. "YOU CAN'T LISTEN TO HIM! STOP NOW, AND LEAVE. RUN AWAY WHILE YOU STILL CAN!"
+
+Run away? Run away from what, and who was this tattered version of me screaming about? *He's not you.* Could he really mean the future self that had gotten me into the University of Texas, the future self that helped me land a job at perhaps the best game developer in the country? What does this tattered me know that I don't?
+
+"The suits! The suits he always wears when he tells you what to do. THINK ABOUT IT! Do you even own a suit like that? Have you ever even considered buying one? You're a game developer who never wears anything fancier than a tie!"
+
+"But I assumed he would tell me when it was time to get the suit!" I exclaimed, still not quite sure whether this man was real.
+
+"Forget the suit! He's sending you down a rabbit hole! Tonight he'll tell you how to repair the missing code. You can't listen to what he says, or you'll end up like me!"
+
+"But how could some computer code turn me into you? What happened to-"
+
+"WHAT HAPPENED!?" his voice bellowed towards the very core of my being. "THERE'S NO TIME FOR WHAT HAPPENED! My very appearance should be enough to tell you 'what happened'. If you listen to the man in the fancy suit, YOU WILL TURN INTO ME!"
+
+"Jonathan, you can't sleep this long. Other people need naps, too." My coworkers were trying to wake me. I looked back to my tattered and charred incarnation, only to see him gone. I could no longer ask questions. He was gone.
+
+After about an hour of thinking over what I had just seen, I concluded that whatever ability I had to be warned about the future was somehow broken because I was short on sleep. So that night, I went home right at 5:00 and got to bed early.
+
+"Jonathan! It's good to see me again. You really do need to stay well rested. That stunt you pulled last night was absolutely stupid." He was there. The future me I had become familiar with. He stood in front of me, wearing the same suit as always, and looking just as clean and tidy as ever.
+
+I decided not to ask about the me I saw during my lunchtime nap, for fear of him being the real me. "Do you have any helpful hints on where I can restore the lost code from?" I asked. "It would be a lot easier if you just told me beforehand that hard drive was going to crash."
+
+"It didn't crash."
+
+"... Come again? How did it not crash?"
+
+"Charles was cut salary the day before the code was lost. He wanted to stick it to the company in a big way for ruining him, and there's nothing you could have done to stop him from deleting the code."
+
+"So, is there anything I can do to fix his actions and make my life easier again?"
+
+"Charles made a copy to hold over the executives' heads for cutting his salary. He hid it in his car's glovebox, and tomorrow, he'll forget to lock it when he arrives at work. Unfortunately, I couldn't tell you about this until tonight, or else Charles would start getting suspicious that you knew what he's up to. Get it out of his green Model 3 after he gets to work, and then discretely load it onto the fileserver in the '/root/Documents' folder. Then say you were digging around for a backup of the code and found it there. You'll be back to normal before lunch."
+
+That seemed simple enough to me. I never had broken into someone else's car before, but it would be unlocked. My future self had never steered me wrong before. "Thank you. You've made my life amazingly better by being here."
+
+"Don't thank me, thank yourself. After all, you'll be the one giving the advice at some point." My alarm clock went off, and he was gone.
+
+After having a nice breakfast, I arrived at work a few minutes late. It would look better for me to be late than going back out of the building only 10 minutes into the day. In the furthest parking space from the door, on the lowest level of the underground garage, was a green Model 3 with its doors unlocked. Charles' car. I opened the passenger door and reached for the glovebox.
+
+"YOU DON'T KNOW WHAT YOU'RE DOING!" The voice echoed through my mind, ricochetting over and over.
+
+I lifted my head to realize that I had passed out. No one was in the garage still. I grabbed the handle on the glovebox, pulled it, and opened the compartment. Inside was only one thing. A small, white disk with a ring of cyan light on each side. I grasped it with my hand, and there was no turning back.
+
+My body disintegrated in front of me. Every atom of every cell separated from one another, rising up my arms and legs, up my torso until only my head remained. I watched as my disassociated body was sucked into the disk. Then my eyes went, and there was only black.
+
+The black only lasted a few seconds, but it lifted to reveal a sincerely frightening sight. There, standing physically in front of me, was the person I had regarded for years as my future self. And he wasn't alone.
+
+"Lock him up with the other combatants."
+
+The two guards, each at least three meters tall and bearing four arms with tentacled hands, grabbed at my arms and legs and bound them tight. As they dragged me away, the liar who pretended to be me was removing his suit jacket. Underneath it, he was just like the guards. Shorter than them, but four arms and tentacled hands.
+
+He chuckled. "Time travel is a wonderful thing. It's just too bad you'll never get to use it again." The guard dragging my arms used one of its free hands to grab my face, and blocked me from breathing until I couldn't fight any harder, and passed out.
+
+*I'm quite new to writing so any feedback is appreciated!*

@@ -1,0 +1,19 @@
+At first, the Competency-Based Examinations (CBE's) had been one-off attempts by professors at practical jokes, ways to blow off steam at the end of the semester. A Physics professor might lay down a bed of hot coals and tell the students to walk it, providing only a small pail of water to test their trust in Thermodynamics. A Biology professor would tell them to stick a 6-inch nail up their nose, knowing full well it could be done.
+
+The idea began spreading seriously, however, with the rise of Artificial Intelligence. Over time, there slowly became no multiple-choice test you could take that a machine couldn't get a better score on, or an essay that couldn't be expressed more articulately by a computer. The CBE's became the best markers of knowledge: can you be creative and perform in real-world scenarios in ways a machine never could?
+
+Sure, undergrad programs never got too fancy with their exams. A Finance student might be told to successfully invest in the stock market, an Education major to teach solo in a classroom for a week. The truly interesting stuff, however, began at the Graduate level. 
+
+No one knows who first proposed using Virtual Reality to administer the CBE's, but for Masters and PhD candidates, the idea had exploded and kept getting more elaborate each year. Immersion technology meant you could forget that you were even in a simulation. AI ability improvement let you interact with dynamic, virtual NPC's that could even appear and act as famous figures. And the entire examination could even extend over several days, with breaks only to eat and sleep.
+
+It was rumored that just last year, a Violin Performance student had been 'sent back' to perform with French Baroque orchestras, that a few gifted ROTC candidates had been able to breach the trench lines of WWI, and that a poor Biology student had found themselves on Mars, being told to grow potatoes to survive.
+
+Of course, I only know all this because I basically did my entire dissertation on the simulations: their history, the ways they're made more immersive, the machine learning of the AI's, the source-code, and how it's all built up from a programming standpoint. After 6 years as a Computer Science PhD student, I understand the simulations better than almost anyone.
+
+I knew I would have to take the CBE at some point, come face to face with the program I knew so well. The Masters Computer Science exam had been fairly easy: appear inside of a giant computer and code it to play Pong by flipping individual transistors. Child's play. However, I had known that this final exam would be comparatively insane.
+
+Like all PhD students, I received the exam material 24 hours in advance, in a bland manilla envelope. While most prompts were detailed and specific, this one had only a couple lines:
+
+"You will be placed in a generic city environment, populated by normal people who will neither actively help nor hinder you. You have one real-time week to crash the simulation from within."
+
+And that was it. I knew it could be done. Every scenario requires that a real-life professor successfully complete it first, but I couldn't be certain whether they had succeeded within that same timeline. Either way, it would likely take every skill and piece of knowledge I had learned up to that point to succeed, pass, and graduate. Although, with a hint of irony, if any of the AI's were to ask my name, I was planning on going by "Neo".

@@ -1,0 +1,101 @@
+>WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+>PLEASE ENTER USER AUTHENTICATION
+
+[therealironman@stark.com](mailto:therealironman@stark.com) | password: Pepper1963
+
+>AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access 21973 4
+
+USER NAME: Tony StarkTITLE: Iron-Man, MTF-ALPHA-16-1
+
+DISPLAYING **SCP-21973**, CLEARANCE LEVEL 4
+
+&#x200B;
+
+**Item #**: 21973
+
+**Object Class:** Keter
+
+**Special Containment Procedures**: SCP-21973-1 is to be kept sedated in alpha-class large humanoid containment chamber designed by \[REDACTED\].  The containment chamber will be enclosed in a larger room, the walls of it are screens ready to deploy various memetic agents. A unique solution composed of \[REDACTED\] and \[REDACTED\] will be used as a sedative and will be administered via intraocular means using an IV drip. SCP-21973-1 is to be restrained and sedated at all times. The IV drip must be checked every thirty (30) minutes. Video and audio surveillance must be maintained at all times. Loss of both video and audio feeds simultaneously for a period longer than >!\[REDACTED\]!< will automatically trigger standard facility evacuation protocol as well as \[DATA EXPUNGED\].
+
+&#x200B;
+
+SCP-21937-2-8 are \[DATA EXPUNGED\] and are currently located at \[REDACTED\]. This is due to \[DATA EXPUNGED\]. SCP-21937-2-8 are expected to return sometime in September of 20>!\*\*!<, which will then be kept in \[REDACTED\].
+
+&#x200B;
+
+**Description**: SCP-21973-1 is a large humanoid creature with purplish skin.
+
+&#x200B;
+
+SCP-21973-2 is \[REDACTED\]
+
+&#x200B;
+
+SCP-21973-3-8  \[REDACTED\]
+
+&#x200B;
+
+**FURTHER INFORMATION ON SCP-2317 IS CLASSIFIED LEVEL 5 (TOP SECRET) OR HIGHER. INSUFFICIENT SECURITY CLEARANCE.**
+
+>WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+>PLEASE ENTER USER AUTHENTICATION
+
+[AE.Stark@foundation.scp](mailto:AE.Stark@foundation.scp) | ironmancoolestavenger
+
+>AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access 21973 5
+
+>YOU ARE ATTEMPTING TO ACCESS A **SECURITY LEVEL 5 (TOP SECRET)** FILE.PLEASE ENTER YOUR PROJECT-SPECIFIC PERSONAL IDENTIFICATION NUMBER (PSPIN)
+
+678-136-7092
+
+PSPIN ACCEPTED.
+
+>THANK YOU. THE TIME AND DATE OF YOUR ACCESS TO THIS FILE HAS BEEN LOGGED AND REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).  
+>  
+>USER NAME: Anthony Edward Stark  
+>  
+>TITLE: Senior Supervising Researcher  
+>  
+>DISPLAYING SCP-2317, CLEARANCE LEVEL 5  
+>  
+>**SCP-21973**
+
+&#x200B;
+
+**Special Containment Procedures**: SCP-21973-1 is to be kept sedated in alpha-class large humanoid containment chamber designed by \[REDACTED\].  The containment chamber will be enclosed in a larger room, the walls of it are screens ready to deploy various memetic agents. ~~A unique solution composed of \[REDACTED\] and \[REDACTED\] will be used as a sedative and will be administered via intraocular means using an IV drip.~~ *A device developed by Tony Stark and Dr. Bruce Banner, with the help of foundation personnel, will now serve as the method to incapacitate SCP-21973. The device was based off of the abilities of A-14 "Mantis", who is a member of MTF-ALPHA-16 "The Avengers". A-14 has the ability to induce a sleep like state on any sentient creature. With the help of  the Foundation, Mr. Stark and Dr. Banner were able to create a machine with a similar effect of A-14's abilities. Because of technology provided by Stark, the power supply of the machine is self sustaining.* SCP-21973-1 is to be restrained and sedated at all times. The IV drip must be checked every thirty (30) minutes. Video and audio surveillance must be maintained at all times. Loss of both video and audio feeds simultaneously for a period longer than twenty \[20\] seconds will automatically trigger standard facility evacuation protocol as well as containment protocol 17-A. Protocol 17-A will alert MTF-Alpha-16 as well as disable the on site nuclear warhead to avoid unnecessary casualties to MTF-ALPHA-16. At least four (4) members of MTF-ALPHA-16 are required to remain on site at all times.
+
+&#x200B;
+
+**Description**: SCP-21973-1 is a large humanoid creature with purplish skin. It has incredibly high levels of durability and power. Conventional weapons have little to no effect on it. SCP-21973-1's power has yet to be measured and the full extent of it's strength is currently unknown. However, while separated from SCP-21973-2, it becomes considerably weaker. While nearly impervious to physical harm, it has a weakness to mental attacks. Various types of memetic agents have been proven to work, albeit with less effect, on SCP-21973-1 and can successfully incapacitate it temporarily. SCP-21973-1 has been diagnosed with narcissistic personality disorder. It has a large ego, and is apathetic towards how others feel about it or its actions.
+
+&#x200B;
+
+SCP-21973-2 is a large medal gauntlet with slots for six (6) gems. It appears to be made of gold but it's actual composition is  currently unknown. So far, all tests have been inconclusive. SCP-21973-2 is currently located at the foundation site >!\*\*!<in the nation of Wakanda, along with 21973-3-6, where the Wakandan and Foundation scientists are currently working on removing 21973-3-6 from 21973-1.
+
+&#x200B;
+
+SCP-21973-3-8 are six (6) gem stones colored purple, blue, amber, red, green, yellow labeled 21973-3 to 21973-8 respectively. Each stone contains it's own anomalous properties. The purple stone has the ability to generate immense kinetic energy. The blue stone can warp space, creating portals to anywhere in this plane of reality. The red stone contains reality warping  properties, however the changes only last as long as the stone is active or within a certain proximity. Minimum effect distance has yet to be determined. The green stone can manipulate time and temporal flows, and is even able to create temporal anomalies. The amber and yellow stones are said to relate to "soul" and "mind" respectively but their actual abilities are currently unknown.  The full extent of the powers of SCP-21973-3-8 are currently unknown.  SCP-21973-7 and SCP-21973-8 are currently in the possession of MTF-ALPHA-16-9 "Dr. Strange" and MTF-ALPHA-16-7 "The Vision".
+
+&#x200B;
+
+**Addendum 21973-1**:  History:  SCP-21973-1-8 were contained on the 27th of April, 20>!18!<. The private organization *The Avengers* contacted the Foundation for aid in an urgent matter. They made the Foundation aware of the existence of SCP-21973 and its intent, as well as the existence and abilities of SCP-21973-2-8. After discovering the current location of SCP-21973, members of *the Avengers*  traveled with Foundation personnel, who assisted them in travelling to their destination. They were accompanied by multiple MTF teams led by MTF-TAU-5 "Samsara".  The teams arrived on the planet of Titan in the system of \[DATA EXPUNGED\]. Having arrived, *the Avengers* joined their teammates who were already engaged in combat with SCP-21973-1. At this time, SCP-21973-1 was currently in possession of SCP-29173-2-6 and was extremely powerful. However, scranton reality anchors proved successful in nullifying some of its anomalous effects, specifically SCP-21973-6. Using this, together with the rest of *the Avengers*, they managed to incapacitate SCP-21973-1 and secure SCP-21973-2-8.  Afterwards, *the Avengers* were formally recruited to the Foundation and given the mobile task force designation ALPHA-16
+
+&#x200B;
+
+**FURTHER INFORMATION ON SCP-2317 IS RESTRICTED TO THE OVERSEER COUNCIL.**
+
+&#x200B;
+
+&#x200B;
+
+\* continued in comments because word limit\*

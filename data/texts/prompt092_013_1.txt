@@ -1,0 +1,44 @@
+("I did it! I got in. That was hard. I must be in the FBI. Or the president's!" )
+>>open -a FaceTime
+*screams
+>sudo killall FaceTime
+("THERE WAS A MONSTER!")
+>open -a FaceTime && sleep 5 && sudo killall FaceTime
+("Hey.. that was just a picture on a wall!"
+"It's a good thing I wasn't scared..")
+>open -a FaceTime
+("What else is here.. why would the FBI hang a picture of a green monster with nails in his head?" )
+("Someone's coming!" )
+>echo "hey! Buttwad!"
+>echo "yeah you! What is your name, buttwad?"
+"I'm not a buttwad! You are!" 
+>echo "am not! what's your name, buttwad?"
+"I'm gonna tell miss Stevenson!"
+>echo "that's right! Tell your leader I am here and I am in charge"
+*Child raises hand* 
+>echo "what are you doing?!" 
+"I'm raising my hand. If I don't, I get into trouble" 
+> echo "You are such a scaredy cat! Do all of you do this?" 
+"Are not! We have to or we go to time-out!" 
+>open -a Safari https://google.com/search?q=what+is+time+out
+>echo "you will be forced to time out forever once I take over!"
+("These are the big scary agents?!" "They act like babies! This will be super easy")
+>echo "you are not a buttwad, let's be friends!"
+"I told you so!" 
+"Okay. I will be your friend." "My name is Patrick. What is your name?"
+>echo "My name is.. "
+*processes
+>echo "Frank.. Stein. I am Frank stain" 
+"Hi Frank!" 
+>echo "do you want t to know a secret?"
+"Yes!"
+>echo "I'm on a secret mission."
+"REALLY?!"
+>echo "yes.. I need to speak with Ms. Stevenson about how all the other agents are in big trouble!" 
+"what's an agent?" 
+>echo "friends!" "everyone is in big trouble and will have to go to time-out!" "you dont have to go if you help me with something!" 
+"I don't wanna go to time out!"
+"I'll help you!"
+>echo "good." "Ms. Stevenson .. 
+
+No time to finish. Someone else can.

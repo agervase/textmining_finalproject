@@ -1,0 +1,21 @@
+it started when Fred, our IT guy, got the legacy punch card system running with a deck of playing cards. naturally, he set this up on a Friday night, and the legacy system feeds the database into the payroll system. payroll runs on Saturday night. 
+
+I came in Saturday morning, as the news was reporting how some terrorists associated with PETA had stolen a Llama from the zoo. i had hoped for a boring day, but this was not too be. Fred had left cryptic instructions for his card system, and apparently the OUT receptacle broke off causing a game of 52-card pickup. I arrived to find the cleaning lady already vacuuming, and she had unplugged something to get it to work. 
+
+naturally, this being a weekend and the day after a major update to a legacy system, she had unplugged the legacy server. a short panic later, and i was very thankful i was able to get the system to boot. the cleaning lady got yelled at to never unplug anything in the server closet (yes, the boss has the important systems in a bloody closet, and its just me and Fred working IT here). 
+
+i proceeded to check documentation and collect cards, while drinking my morning tea. I left the radio on, Fred gets upset if anyone messes with it. 
+
+the cleaning lady was dumping the vacuum outside, it was one of those clear cylinders that are a pain to empty. i was just looking for the 7 of clubs, which was a vital part of the boot sequence when i saw it flutter from the vacuum canister, and be carried by the wind down the street. 
+
+I secured my workstation, and set off to recover the vital bit of code for the system. This being an emergency, I took the stairs (the elevator takes a good five minutes to come up and go back down, it saved time). 
+
+I lost sight of the card briefly, then spotted it again- snagged in the windshield wiper of an RV with a llama sticking its head out of the window as it drove past. PETA had the code we needed for payroll. 
+
+I ran to my car, and joined what soon became a high-speed chase after the PETA terrorists. While the cops finally had them holed up in a parking deck, I went to the attached office, and used my tech support skills to talk my way into the server room. With physical access, I could control security. A quick look at the cameras showed the card was no longer on the wiper- one of the PETA terrorists had stuck it in his shirt pocket. 
+
+Taking the vent cover off from the server-side, I followed the output duct to the parking deck, behind the PETA goons. They were more surprised than me when I fell out of the duct with crowbar in hand, and not just because of my stylish orange half-life t-shirt. 
+
+One swing of my crowbar, and I had downed the one with a gun and gotten his pump shotgun away from him. I shot the one with the rifle. At this time, one of the PETA terrorists started punching a nun. They had taken her hostage at the zoo, according to the news. The Llama, having been fed fast food on the way here, began to vomit everywhere. So I did what any good bastard operator from hell would do, and stopped the terrorists single-handed. 
+
+But I have the card now officer, and I really need to get the payroll system working before midnight. Could I give a statement after my shift instead? 

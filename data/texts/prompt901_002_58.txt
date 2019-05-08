@@ -1,0 +1,46 @@
+One million Bitcoin... One million Bitcoin... It couldn't be possible. Nobody had that many Bitcoin... except... it couldn't be. By some astronomical-age-of-the-universe-to-calculate-the-key-of-it-chance, the wallet that I just generated was a collision with an existing wallet... THE wallet. My hands trembled as I held the mnemonic seed that I had just transcribed during the setup process. The wallet balance hadn't been on the screen until I clicked "Next".
+
+I couldn't even comprehend how rich I was. Afraid to click anything on my screen lest it disappear into the digital ether, I stared dumbly at my monitor, the insipid taste immediately evident in my suddenly dry mouth that was open to the air dumbly like the rear door of a bomber.
+
+My mind racing... there had to be some error with the wallet. There's no way that this is real, but there was only one way to be sure. The cursor crept across the screen, my palpitations nearly audible through my chest. The keyboard rattled under my fingers as I typed the amount 350 BTC (one million dollars!). My chest heaved and the air came out of me in a huge sigh... I think I'm going to be sick... the deed was done; I only had to wait for confirmations. I stared blankly at the screen for 15seconds before I started to feel the headache forming in the front of my head. There's no way I was going to stay up being crazy when I could just check it in the morning. Given that the Segwit idiots were still blocking Bitcoin Unlimited it could be anywhere from 10 minutes to 10 hours.
+
+I popped a couple melatonin and stretched out in my bed. If this was a crazy dream, I wanted out right now. I'll wake up in the morning and everything will make sense again.
+--------
+
+--------
+
+"$200,000 transaction fee in the mempool up for grabs!"
+
+"We need UASF now! Transaction fees out of control! $200,000 fee is proof."
+
+"Satoshi Lives! Satoshi coins move for the first time in 8 years."
+
+"Twitter: Satoshi transaction confirmed... What happens now?"
+
+"CoinMarketCap: Satoshi is back and what it means for the future of Bitcoin."
+
+--------
+
+"Wake up. You're safe now." 
+
+The face above me looked kind enough, even if she was just a blurry smudge.
+
+"Huh, what's happened...?"
+
+I looked around at the clean white walls of a hospital room. It didn't look like an emergency room. How long was I here?
+
+"They found you just in time... The police said something about hackers finding you and trying to hurt you. I have no idea what they could possibly have wanted so bad that they'd try to kill you like this."
+
+The nurse shrugged and smiled. I felt a sick pit in my stomach. I couldn't bring myself to say anything. She continued despite my lack of input.
+
+"The doctor will be in to see you in a little bit. You've been out for weeks. When they brought you in we didn't think you were going to make it, but you're recovering nicely. I brought in your personal effects and I took the liberty to charge your cell phone so you can call your family."
+
+I frantically pulled up my Coinbase wallet on my phone. I knew that the rest of the million were probably gone, stolen from me like every other good thing that's happened to me, but I still had the 350 BTC. I'm a millionaire. I sighed relief as the wallet opened and I saw the number 350.46574301 BTC.
+
+Wait.
+
+What.
+
+The squiggly line in the chart looked like a crooked sine wave diminishing down to the bottom edge of the graph.
+
+350.46574301 BTC ($3.51).

@@ -1,0 +1,17 @@
+I hear a click in my ear, barely perceptible.
+"Big Jimmy to Khan.  Target is in sight.  ID confirmed.  It's him"
+And with that call out I heave a sigh of relief and can't help but reflect on the events of the past 5 days...
+
+It all started on a bright sunny Monday morning.  I went down to the bank to check in on my down payment for my house and a brand new car and finalize the details of the wire transfer.  But when the teller read my balance, a mere $86390, my blood began to boil.  Some jerk had stolen $10 and left a transaction ID of "NeverGonnaCatchMe78".  The bank indicated that all i needed to do was file a dispute, but disputes are costly.  They take at least 2 whole minutes to file.  No, I required something more permanent.  NeverGonnaCatchMe78 had to pay...
+
+Turns out that the tellers themselves are fairly straight cookies. They wouldn't let on any details of the user, but lucky for me a couple six packs and a pair of comicon tickets in their local sysadmin's hands worked wonders.  I picked up a list of IP addresses and a copy of every person Never had scammed... Ever.
+
+Now the ISP was a bit tougher to crack.  A few tablets greased the managers pockets at a local store enough to get 15 minutes with a tech.  But the tech wanted a Tesla...  Not one of the Model X's like a normal person but a Model S.  Who am I to judge though when vendetta is on the line?  The tech got me 30 minutes of unrestricted access to the admin console, just long enough to find out the address that IP address was registered to at the time of the attack.  
+
+The end was near...
+
+Only 1 minor hiccup stood between me and pure unadultered revenge.  The 6 stories of apartments that all shared that single data connection.  But I had a plan.  A private investigator with the brains to keep their mouths shut aren't cheap and some ex military muscle comes at a price, but both are worth every penny.
+
+But once I received the signal everything started happening quickly.  My muscle efficiently moved to the place indicated by the pi.  Hand signals flashing they slowly crept up to the door.  Inside was the unsuspecting jerk who dared to cross me.  The last thing that popped into my mind as the muscle wound up to break down the door was that this had cost me $86390, but the satisfaction about to be gained was worth every penny... 
+
+Edit: Fixed spelling errors.

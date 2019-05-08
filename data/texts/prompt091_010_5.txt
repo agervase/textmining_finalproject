@@ -1,0 +1,35 @@
+"Hi James, I'm Marshal Dawes. Do you know why we are here today?"
+
+James looked across the conference room table at the group of suited executives, his boss on the far right sweating and looking incredibly under-dressed in his usual Polo shirt and wrinkled slacks. He replied, "I haven't the foggiest."
+
+"Six months ago, we asked you to develop a method of payment system for our Online Portal." Dawes was in the middle of the conference table, staring at James through glittering gold rimmed Lindberg spectacles.
+
+James immediately felt relief at the question, the work had gone very smoothly, the models had been easy, and he'd had plenty of time for comprehensive unit testing. Actually, he'd had time to write better-than-the-library replacements for several key functions. "Oh, what about it, did you find an issue?"
+
+"Not as such," Dawes opened the lid of the bound report in front of him and glanced down, "Did you know that we started receiving 1.6 million more hits per day exactly 3 weeks after deploying the new payment system?" 
+
+James scowled, confused. "How can changing the payment back-end affect traffic?"
+
+"Indeed, that's a good question. In fact all of this new traffic is coming from countries we don't even offer service to"
+
+James just looked back at Dawes, bafflement obvious on his face. 
+
+Dawes looked up from the report. "We had no idea about any of this until 36 hours ago when we were contacted by a representative from the US treasury department and the director of Foreign Affairs. "
+
+Venezuela's government is passing an emergency bill to censor our website from their internet."
+
+What the hell was going on, "My pricing backend is going to get our website, which does not even offer services to Venezuela, banned?" 
+
+"Possibly, they are meeting with their national ISPs to figure out how they could go about it." Dawes continued, "You were asked to use the existing library for calculating transaction prices in Mexico, is that correct?"
+
+"Yes," James arched his back, trying to get a better view of Dawes' report. 
+
+"You didn't use the existing library?" Dawes now looked expectant.
+
+James felt himself fill with pride as he replied, "No, it wasn't very good, on November 11, our exchange rate with Mexico went through all sorts of fluctuations and the old library relied on a single unreliable exchange rate repo." 
+
+"So you wrote your own." Stated Dawes. 
+
+"Yep, samples real-time transactions and exchange data to compute a much more accurate minute to minute exchange rate. It's only a summary for users who trade in a different currency, their bank will still handle the exchange using whatever their normal "official" rate is. What's the problem?" 
+
+"You did a great job, Venezuelans are using our shopping cart to figure out the exchange rate between Bolivars and Dollars. The Venezuelan government wants to fix this exchange rate at 11 : 1 and is threatening to ban our website and sue The Home Depot for damages because our shopping cart accurately lists this rate as 4000 : 1." Dawes flipped the report closed. 

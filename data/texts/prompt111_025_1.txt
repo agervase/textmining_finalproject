@@ -1,0 +1,89 @@
+`> start_program`
+
+Booting...
+
+Loaded.
+
+Available Commands: Info, View Logs, Activate Agents, Shutdown
+
+`> info`
+
+This is the Monitoring system, established in [DATE REDACTED] to monitor potential end-of-the-world scenarios and recommend possibilities for corrections to restore civil order.
+
+`> view_logs`
+
+12.03.2020 09:15: Detected seismic activity approaching dangerous levels.
+
+12.03.2020 09:56: Yellowstone supervolcano erupts. Ash cloud blocking critical amounts of sunlight.
+
+CONFIRM APOCALYPSE SCENARIO B78 "NUCLEAR WINTER"
+
+12.03.2020 10:02: Bioagent containment failure. Patient Zero escapes custody.
+
+12.03.2020 10:03: Multiple infections confirmed.
+
+CONFIRM APOCALYPSE SCENARIO J33 "ZOMBIE APOCALYPSE"
+
+12.03.2020 10:10: Unidentified flying objects enter Earth Orbit.
+
+12.03.2020 10:11: UFOs confirmed extraterrestrial in origin.
+
+12.03.2020 10:16: UFOs open fire on population centers. Multiple walkers confirmed.
+
+CONFIRM APOCALYPSE SCENARIO X37 "ALIEN INVASION"
+
+12.03.2020 10:16: AI Codename [REDACTED] personality shift. Confirmed now hostile to organic life
+
+12.03.2020 10:18: Multiple Illuminati agents activate. Illuminati troop movements begin
+
+12.03.2020 10:21: AI breaks containment. AI suborns military hardware. Illuminati agents secure control over government agencies
+
+CONFIRM APOCALYPSE SCENARIO T41 "ROBOT UPRISING"
+
+CONFIRM APOCALYPSE SCENARIO I09 "NEW WORLD ORDER"
+
+12.03.2020 10:30: Rapid mutations in plant life at [REDACTED] Botanical Gardens detected.
+
+12.03.2020 10:35: New plant lifeforms confirmed mobile, self replicationg, and capable of animal intelligence. Multiple mobile biomasses being tracked in Atlantic Ocean.
+
+CONFIRM APOCALYPSE SCENARIO G63 "DAY OF THE TRIFFIDS"
+
+12.03.2020 10:39: Multiple biomasses make landfall from Atlantic Ocean. Begin targeting any artificial structure.
+
+CONFIRM APOCALYPSE SCENARIO K14 "KAIJU"
+
+12.03.2020 11:00 Asteroid detected on collision course with Earth's Moon.
+
+12.03.2020 11:10 Impact with Earth's Moon. Confirmed Moon partial destruction.
+
+12.03.2020 11:14 Confirmed impacts with Earth detected from space debris.
+
+CONFIRM APOCALYPSE SCENARIO M43 "METEOR STORM"
+
+12.03.2020 11:15: Seismic events indicate incoming attack from subterranean origin.
+
+12.03.2020 11:24: Confirmed attacks of subterranean origin.
+
+CONFIRM APOCALYPSE SCENARIO M01 "MOLE MEN"
+
+12.03.2020 11:30: Nanotech containment facility [REDACTED] confirmed damaged.
+
+12.03.2020 11:31: Confirmed replicator containment broken.
+
+CONFIRM APOCALYPSE SCENARIO G38 "GREY GOO"
+
+12.03.2020 12:00: Confirmed White Horse. Containment broken. Confirmed Red Horse. Containment broken. Confirmed Black Horse. Containment broken. Confirmed Pale Horse. Containment broken.
+
+CONFIRM APOCALYPSE SCENARIO A00 "FOUR HORSEMEN"
+
+`> activate_agents all`
+
+All Fixer Agents have been activated.
+
+***
+
+Somewhere in Nevada, a concealed blast door overlooking a city shook off rust and dirt as it groaned open. The light slowly crept in, revealing a tall figure, who stepped out into the harsh afternoon glare. He looked around. To the west, an ash plume towered into the stratosphere, casting a shadow across the land. Meteors rained down, punching holes through the ash plume, and causing more destruction where they landed. The urban center in front of the figure was overrun with military fortifications, against which pale corpses squirmed in an attempt to get at fresh, living meat. Over the scene, a metal ellipsoid drifted, as lazily as a cloud, except clouds rained water, and from the metal ship, heat beams scoured buildings off the map.
+
+A ruined botanical garden couldn't be seen, but must have been in the center of a growing patch of green. Advanced military walkers and drones rained artillery on defenders and rival forces. As he watched, one of them was overtaken by what appeared to be a creeping silver-grey slime, a collective of self-replicating nanotech that was constantly growing. Far to the east, mole-men emerged from the ground, and were crushed underfoot by massive kaiju beast. And above it all, the sky turned red, and hell boiled over, an army of demons led by four apocalyptic figures.
+
+The agent sighed, and stepped forward, weapon in hand. Time to go to work.
