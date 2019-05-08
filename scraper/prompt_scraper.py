@@ -9,16 +9,16 @@ def get_date(created):
     return dt.datetime.fromtimestamp(created)
 
 if __name__ == "__main__":
-    r = praw.Reddit(client_id='PW8Tn2t-OXA2Cg', \
-                     client_secret='hlk0PphMhvfjx-XW3VLJv569_Po', \
+    r = praw.Reddit(client_id='XXXXXXXXXXXXXXX', \
+                     client_secret='XXXXXXXXXXXXXXXXXXXX', \
                      user_agent='YOUR_APP_NAME', \
-                     username='angervase', \
-                     password='XXXXXXXXXXX')  # password redacted
+                     username='XXXXXXXXXXXXXXXXXX', \
+                     password='XXXXXXXXXXX')  # user information redacted
    
     subreddit = r.subreddit('WritingPrompts')
     wp_list = []
     prompt_num = 0
-    prompt_dir = "prompt_responses/"
+    prompt_dir = "../data/texts/"
     csv_name = "prompt_data.csv"
     for submission in subreddit.top(limit=1000):
         title = submission.title.lower()
